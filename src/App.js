@@ -3,10 +3,8 @@ import getRatios from './getRatios';
 import logo from './logo.svg';
 import './App.css';
 
-const DEFAULT_COM_OBJ = {
-  string1: '',
-  string2: '',
-};
+const KEYS = ['string1', 'string2'];
+const DEFAULT_COM_OBJ = KEYS.reduce((arr, k) => ({...arr, k: ''}), {});
 
 class App extends Component {
 
@@ -22,28 +20,24 @@ class App extends Component {
 
   getComparison(com_obj, index) {
     const { string1, string2 } = com_obj;
+    const inputs = KEYS.map((k) => (
+      <span key={`${index}_${k}`}>
+        <label>{k}</label>
+        <input onChange={(e) => {
+          e.stopPropagation();
+          const value = e.target.value.trim();
+          const list = this.state.list;
+          list[index] = {
+            ...list[index],
+            [k]: value,
+          };
+          this.setState({ list });
+        }} />
+      </span>
+    ));
     return (
       <li key={index}>
-        <span>
-          <label>String 1</label>
-          <input onChange={(e) => {
-            e.stopPropagation();
-            const value = e.target.value.trim();
-            const list = this.state.list;
-            list[index].string1 = value;
-            this.setState({ list });
-          }} />
-        </span>
-        <span>
-          <label>String 2</label>
-          <input onChange={(e) => {
-            e.stopPropagation();
-            const value = e.target.value.trim();
-            const list = this.state.list;
-            list[index].string2 = value;
-            this.setState({ list });
-          }} />
-        </span>
+        {inputs}
         <br />
         Ratios: {getRatios(string1, string2)}
       </li>
