@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "ISC",
+  "homepage": "https://ben196888.github.com/fuzz",
   "dependencies": {
     "fuzzball": "^0.13.5",
     "moment": "^2.19.1",
