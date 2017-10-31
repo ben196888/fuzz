@@ -21,9 +21,9 @@ class App extends Component {
   getComparison(com_obj, index) {
     const { string1, string2 } = com_obj;
     const inputs = KEYS.map((k) => (
-      <span key={`${index}_${k}`}>
+      <div key={`${index}_${k}`}>
         <label>{k}</label>
-        <input onChange={(e) => {
+        <input className="Input-compare" onChange={(e) => {
           e.stopPropagation();
           const value = e.target.value.trim();
           const list = this.state.list;
@@ -33,13 +33,11 @@ class App extends Component {
           };
           this.setState({ list });
         }} />
-      </span>
+      </div>
     ));
     return (
       <li key={index}>
         {inputs}
-        <br />
-        Ratios: {getRatios(string1, string2)}
       </li>
     );
   }
@@ -60,10 +58,10 @@ class App extends Component {
             this.setState({
               list: [...list, DEFAULT_COM_OBJ],
             });
-          }}>Add new comparison</button>
-          <ul>
-            { comparisons }
-          </ul>
+          }}>
+            Add new comparison
+          </button>
+          <ul className="Ul-compare">{comparisons}</ul>
         </div>
       </div>
     );
