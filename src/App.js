@@ -112,7 +112,7 @@ class App extends Component {
     const matchDisplay = (mark >= this.state.threshold) ? 'Match' : 'Not Match';
 
     return (
-      <li key={index}>
+      <li className="Li-compare" key={index}>
         Comparsion #{index}, {matchDisplay}, Mark: {mark}
         {inputs}
       </li>
@@ -133,15 +133,17 @@ class App extends Component {
           <h1 className="App-title">FuzzyWuzzy String compare</h1>
         </header>
         <div className="App-intro">
-          <span className="Ul-param">{paramInputs}</span>
-          {thresholdInput}
-          <button onClick={() => {
-            this.setState({
-              list: [...list, DEFAULT_COM_OBJ],
-            });
-          }}>
-            Add new comparison
-          </button>
+          <div>
+            <span className="Ul-param">{paramInputs}</span>
+            {thresholdInput}
+            <button onClick={() => {
+              this.setState({
+                list: [...list, DEFAULT_COM_OBJ],
+              });
+            }}>
+              Add new comparison
+            </button>
+          </div>
           <ul className="Ul-compare">{comparisons}</ul>
         </div>
       </div>
