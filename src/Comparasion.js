@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import getRatios from './getRatios';
 
 const KEYS = ['string1', 'string2'];
-const DEFAULT_COM_OBJ = KEYS.reduce((arr, k) => ({...arr, k: ''}), {});
+const DEFAULT_COM_OBJ = KEYS.reduce((arr, k) => ({...arr, [k]: ''}), {});
 const DEFAULT_PARAMETERS = {
   sr: '0',
   pr: '0',
@@ -87,12 +87,18 @@ class Comparasion extends Component {
         <input className="Input-compare" onChange={(e) => {
           e.stopPropagation();
           const value = e.target.value.trim();
-          const list = this.state.list;
-          list[index] = {
-            ...list[index],
-            [k]: value,
-          };
-          this.setState({ list });
+          this.setState(prevState => {
+            // Ensure new object
+            const list = [...prevState.list];
+            list[index] = {
+              ...list[index],
+              [k]: value,
+            };
+            return {
+              ...prevState,
+              list,
+            };
+          });
         }} />
       </div>
     ));
