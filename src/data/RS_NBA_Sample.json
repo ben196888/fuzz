@@ -1,0 +1,4616 @@
+{
+    "action": "snapshot",
+    "category": "Basketball",
+    "event": {
+        "category": "Basketball",
+        "id": "8047",
+        "markets": [
+            {
+                "betting": "y",
+                "id": "1_8047",
+                "lifetime": "pre-match",
+                "market_type": "half_time_line",
+                "name": "1st Half Line",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "-0.5",
+                        "id": "1055871952",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.79,
+                                    "d8": 1.75
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "+0.5",
+                        "id": "1055871953",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.0,
+                                    "d8": 2.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "3_8047",
+                "lifetime": "pre-match",
+                "market_type": "first_qtr_line",
+                "name": "1st Quarter Line",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "-0.5",
+                        "id": "1055872011",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.0,
+                                    "d8": 2.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "+0.5",
+                        "id": "1055872012",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.78,
+                                    "d8": 1.75
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "4_8047",
+                "lifetime": "pre-match",
+                "market_type": "first_qtr_total_ou",
+                "name": "1st Quarter Total",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "50.5+",
+                        "id": "1055872036",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.86,
+                                    "d8": 1.83333333
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "50.5-",
+                        "id": "1055872037",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.93,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "5_8047",
+                "lifetime": "pre-match",
+                "market_type": "second_qtr_line",
+                "name": "2nd Quarter Line",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "-0.5",
+                        "id": "1055872060",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.92,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "+0.5",
+                        "id": "1055872061",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.87,
+                                    "d8": 1.86956521
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "6_8047",
+                "lifetime": "pre-match",
+                "market_type": "second_qtr_total_ou",
+                "name": "2nd Quarter Total",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "52.5+",
+                        "id": "1055872085",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.86,
+                                    "d8": 1.83333333
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "52.5-",
+                        "id": "1055872086",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.93,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "7_8047",
+                "lifetime": "pre-match",
+                "market_type": "third_qtr_line",
+                "name": "3rd Quarter Line",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "+0.5",
+                        "id": "1055872109",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.91,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "-0.5",
+                        "id": "1055872110",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.88,
+                                    "d8": 1.86956521
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "8_8047",
+                "lifetime": "pre-match",
+                "market_type": "third_qtr_total_ou",
+                "name": "3rd Quarter Total",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "48.5+",
+                        "id": "1055872134",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.85,
+                                    "d8": 1.83333333
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "48.5-",
+                        "id": "1055872135",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.94,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "9_8047",
+                "lifetime": "pre-match",
+                "market_type": "fourth_qtr_line",
+                "name": "4th Quarter Line",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "+0.5",
+                        "id": "1055872158",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.15,
+                                    "d8": 2.1
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "-0.5",
+                        "id": "1055872159",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.7,
+                                    "d8": 1.66666666
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "10_8047",
+                "lifetime": "pre-match",
+                "market_type": "fourth_qtr_total_ou",
+                "name": "4th Quarter Total",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "50.5+",
+                        "id": "1055872183",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.86,
+                                    "d8": 1.83333333
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "50.5-",
+                        "id": "1055872184",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.93,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "13_8047",
+                "lifetime": "pre-match",
+                "market_type": "match_line",
+                "name": "Match Line",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "+2.5",
+                        "id": "1055871244",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.92,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "-2.5",
+                        "id": "1055871245",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.92,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "14_8047",
+                "lifetime": "pre-match",
+                "market_type": "match_total",
+                "name": "Match Total",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "handicap": "201+",
+                        "id": "1055871450",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.9,
+                                    "d8": 1.9
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "handicap": "201-",
+                        "id": "1055871451",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.93,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "15_8047",
+                "lifetime": "pre-match",
+                "market_type": "h2h",
+                "name": "Head To Head",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055871242",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.15,
+                                    "d8": 2.1
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055871243",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.74,
+                                    "d8": 1.72727272
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "21_8047",
+                "lifetime": "pre-match",
+                "market_type": "total_match_points_1f",
+                "name": "Total Match Points 1f",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055871564",
+                        "name": "180 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055871565",
+                        "name": "181 to 190",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055871566",
+                        "name": "191 to 200",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055871567",
+                        "name": "201 to 210",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055871568",
+                        "name": "211 to 220",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 6,
+                        "id": "1055871569",
+                        "name": "221 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "27_8047",
+                "lifetime": "pre-match",
+                "market_type": "total_match_points_2f",
+                "name": "Total Match Points 2f",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055871602",
+                        "name": "180 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055871603",
+                        "name": "181 to 200",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055871604",
+                        "name": "201 to 220",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055871605",
+                        "name": "221 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "28_8047",
+                "lifetime": "pre-match",
+                "market_type": "pyol",
+                "name": "Pick Your Own Line",
+                "selections": [
+                    {
+                        "display_order": 16,
+                        "handicap": "-11.5",
+                        "id": "1055871261",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 17,
+                        "handicap": "-10.5",
+                        "id": "1055871262",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 18,
+                        "handicap": "-9.5",
+                        "id": "1055871263",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 19,
+                        "handicap": "-8.5",
+                        "id": "1055871264",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 20,
+                        "handicap": "-7.5",
+                        "id": "1055871265",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 21,
+                        "handicap": "-6.5",
+                        "id": "1055871266",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 22,
+                        "handicap": "-5.5",
+                        "id": "1055871267",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 23,
+                        "handicap": "-4.5",
+                        "id": "1055871268",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 24,
+                        "handicap": "-3.5",
+                        "id": "1055871269",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 25,
+                        "handicap": "-2.5",
+                        "id": "1055871270",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 26,
+                        "handicap": "+2.5",
+                        "id": "1055871271",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.92,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 27,
+                        "handicap": "+3.5",
+                        "id": "1055871272",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 28,
+                        "handicap": "+4.5",
+                        "id": "1055871273",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 29,
+                        "handicap": "+5.5",
+                        "id": "1055871274",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 30,
+                        "handicap": "+6.5",
+                        "id": "1055871275",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 31,
+                        "handicap": "+7.5",
+                        "id": "1055871276",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 32,
+                        "handicap": "+8.5",
+                        "id": "1055871277",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 33,
+                        "handicap": "+9.5",
+                        "id": "1055871278",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 34,
+                        "handicap": "+10.5",
+                        "id": "1055871279",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 35,
+                        "handicap": "+11.5",
+                        "id": "1055871280",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 36,
+                        "handicap": "+12.5",
+                        "id": "1055871281",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 67,
+                        "handicap": "+11.5",
+                        "id": "1055871312",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 68,
+                        "handicap": "+10.5",
+                        "id": "1055871313",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 69,
+                        "handicap": "+9.5",
+                        "id": "1055871314",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 70,
+                        "handicap": "+8.5",
+                        "id": "1055871315",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 71,
+                        "handicap": "+7.5",
+                        "id": "1055871316",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 72,
+                        "handicap": "+6.5",
+                        "id": "1055871317",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 73,
+                        "handicap": "+5.5",
+                        "id": "1055871318",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 74,
+                        "handicap": "+4.5",
+                        "id": "1055871319",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 75,
+                        "handicap": "+3.5",
+                        "id": "1055871320",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 76,
+                        "handicap": "+2.5",
+                        "id": "1055871321",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 77,
+                        "handicap": "-2.5",
+                        "id": "1055871322",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.92,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 78,
+                        "handicap": "-3.5",
+                        "id": "1055871323",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 79,
+                        "handicap": "-4.5",
+                        "id": "1055871324",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 80,
+                        "handicap": "-5.5",
+                        "id": "1055871325",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 81,
+                        "handicap": "-6.5",
+                        "id": "1055871326",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 82,
+                        "handicap": "-7.5",
+                        "id": "1055871327",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 83,
+                        "handicap": "-8.5",
+                        "id": "1055871328",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 84,
+                        "handicap": "-9.5",
+                        "id": "1055871329",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 85,
+                        "handicap": "-10.5",
+                        "id": "1055871330",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 86,
+                        "handicap": "-11.5",
+                        "id": "1055871331",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 87,
+                        "handicap": "-12.5",
+                        "id": "1055871332",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "29_8047",
+                "lifetime": "pre-match",
+                "market_type": "pyot",
+                "name": "Pick Your Own Total",
+                "selections": [
+                    {
+                        "display_order": 16,
+                        "handicap": "211.5+",
+                        "id": "1055871363",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 17,
+                        "handicap": "210.5+",
+                        "id": "1055871364",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 18,
+                        "handicap": "209.5+",
+                        "id": "1055871365",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 19,
+                        "handicap": "208.5+",
+                        "id": "1055871366",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 20,
+                        "handicap": "207.5+",
+                        "id": "1055871367",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 21,
+                        "handicap": "206.5+",
+                        "id": "1055871368",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 22,
+                        "handicap": "205.5+",
+                        "id": "1055871369",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 23,
+                        "handicap": "204.5+",
+                        "id": "1055871370",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 24,
+                        "handicap": "203.5+",
+                        "id": "1055871371",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 25,
+                        "handicap": "202.5+",
+                        "id": "1055871372",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 26,
+                        "handicap": "201+",
+                        "id": "1055871373",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.9,
+                                    "d8": 1.9
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 27,
+                        "handicap": "199.5+",
+                        "id": "1055871374",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 28,
+                        "handicap": "198.5+",
+                        "id": "1055871375",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 29,
+                        "handicap": "197.5+",
+                        "id": "1055871376",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 30,
+                        "handicap": "196.5+",
+                        "id": "1055871377",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 31,
+                        "handicap": "195.5+",
+                        "id": "1055871378",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 32,
+                        "handicap": "194.5+",
+                        "id": "1055871379",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 33,
+                        "handicap": "193.5+",
+                        "id": "1055871380",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 34,
+                        "handicap": "192.5+",
+                        "id": "1055871381",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 35,
+                        "handicap": "191.5+",
+                        "id": "1055871382",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 36,
+                        "handicap": "190.5+",
+                        "id": "1055871383",
+                        "name": "Over",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 67,
+                        "handicap": "211.5-",
+                        "id": "1055871414",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 68,
+                        "handicap": "210.5-",
+                        "id": "1055871415",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 69,
+                        "handicap": "209.5-",
+                        "id": "1055871416",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 70,
+                        "handicap": "208.5-",
+                        "id": "1055871417",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 71,
+                        "handicap": "207.5-",
+                        "id": "1055871418",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 72,
+                        "handicap": "206.5-",
+                        "id": "1055871419",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 73,
+                        "handicap": "205.5-",
+                        "id": "1055871420",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 74,
+                        "handicap": "204.5-",
+                        "id": "1055871421",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 75,
+                        "handicap": "203.5-",
+                        "id": "1055871422",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 76,
+                        "handicap": "202.5-",
+                        "id": "1055871423",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 77,
+                        "handicap": "201-",
+                        "id": "1055871424",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.93,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 78,
+                        "handicap": "199.5-",
+                        "id": "1055871425",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 79,
+                        "handicap": "198.5-",
+                        "id": "1055871426",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 80,
+                        "handicap": "197.5-",
+                        "id": "1055871427",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 81,
+                        "handicap": "196.5-",
+                        "id": "1055871428",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 82,
+                        "handicap": "195.5-",
+                        "id": "1055871429",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 83,
+                        "handicap": "194.5-",
+                        "id": "1055871430",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 84,
+                        "handicap": "193.5-",
+                        "id": "1055871431",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 85,
+                        "handicap": "192.5-",
+                        "id": "1055871432",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 86,
+                        "handicap": "191.5-",
+                        "id": "1055871433",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 87,
+                        "handicap": "190.5-",
+                        "id": "1055871434",
+                        "name": "Under",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "46_8047",
+                "lifetime": "pre-match",
+                "market_type": "exact_total_points_f",
+                "name": "Exact Total Points F",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055871724",
+                        "name": "180 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055871725",
+                        "name": "181 to 182",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055871726",
+                        "name": "183 to 184",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055871727",
+                        "name": "185 to 186",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055871728",
+                        "name": "187 to 188",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 6,
+                        "id": "1055871729",
+                        "name": "189 to 190",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 7,
+                        "id": "1055871730",
+                        "name": "191 to 192",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 8,
+                        "id": "1055871731",
+                        "name": "193 to 194",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 9,
+                        "id": "1055871732",
+                        "name": "195 to 196",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 10,
+                        "id": "1055871733",
+                        "name": "197 to 198",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 11,
+                        "id": "1055871734",
+                        "name": "199 to 200",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 12,
+                        "id": "1055871735",
+                        "name": "201 to 202",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 13,
+                        "id": "1055871736",
+                        "name": "203 to 204",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 14,
+                        "id": "1055871737",
+                        "name": "205 to 206",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 15,
+                        "id": "1055871738",
+                        "name": "207 to 208",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 16,
+                        "id": "1055871739",
+                        "name": "209 to 210",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 17,
+                        "id": "1055871740",
+                        "name": "211 to 212",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 18,
+                        "id": "1055871741",
+                        "name": "213 to 214",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 19,
+                        "id": "1055871742",
+                        "name": "215 to 216",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 20,
+                        "id": "1055871743",
+                        "name": "217 to 218",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 21,
+                        "id": "1055871744",
+                        "name": "219 to 220",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 22,
+                        "id": "1055871745",
+                        "name": "221 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "77_8047",
+                "lifetime": "pre-match",
+                "market_type": "first_half_total_points_1d",
+                "name": "1st Half Total Points 1d",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055871994",
+                        "name": "90 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055871995",
+                        "name": "91 to 100",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.5,
+                                    "d8": 6.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055871996",
+                        "name": "101 to 110",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.0,
+                                    "d8": 6.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055871997",
+                        "name": "111 to 120",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 9.0,
+                                    "d8": 9.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055871998",
+                        "name": "121 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "85_8047",
+                "lifetime": "pre-match",
+                "market_type": "first_qtr_total_3",
+                "name": "1st Quarter Total 3",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872048",
+                        "name": "40 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872049",
+                        "name": "41 to 50",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872050",
+                        "name": "51 to 60",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872051",
+                        "name": "61 to 70",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055872052",
+                        "name": "71 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.15,
+                                    "d8": 2.1
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "92_8047",
+                "lifetime": "pre-match",
+                "market_type": "second_qtr_total_3",
+                "name": "2nd Quarter Total 3",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872097",
+                        "name": "40 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872098",
+                        "name": "41 to 50",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872099",
+                        "name": "51 to 60",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872100",
+                        "name": "61 to 70",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055872101",
+                        "name": "71 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.02,
+                                    "d8": 1.02
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "99_8047",
+                "lifetime": "pre-match",
+                "market_type": "third_qtr_total_3",
+                "name": "3rd Quarter Total 3",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872146",
+                        "name": "40 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872147",
+                        "name": "41 to 50",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 36.0,
+                                    "d8": 34.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872148",
+                        "name": "51 to 60",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 56.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872149",
+                        "name": "61 to 70",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 401.0,
+                                    "d8": 401.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055872150",
+                        "name": "71 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.7,
+                                    "d8": 6.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "105_8047",
+                "lifetime": "pre-match",
+                "market_type": "fourth_qtr_total_2",
+                "name": "4th Quarter Total 2",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872190",
+                        "name": "30 Points or Less",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.15,
+                                    "d8": 2.1
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872191",
+                        "name": "31 to 40",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872192",
+                        "name": "41 to 50",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872193",
+                        "name": "51 to 60",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055872194",
+                        "name": "61 Points or More",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.0,
+                                    "d8": 0.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "108_8047",
+                "lifetime": "pre-match",
+                "market_type": "one_to_ten",
+                "name": "1st To 10 Points",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872205",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.94,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872206",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.82,
+                                    "d8": 1.8
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "109_8047",
+                "lifetime": "pre-match",
+                "market_type": "one_to_twenty",
+                "name": "1st To 20 Points",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872207",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.05,
+                                    "d8": 2.05
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872208",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.75,
+                                    "d8": 1.75
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "110_8047",
+                "lifetime": "pre-match",
+                "market_type": "high_scoring_quarter",
+                "name": "High Scoring Quarter",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872209",
+                        "name": "1st Quarter",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.6,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872210",
+                        "name": "2nd Quarter",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.5,
+                                    "d8": 3.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872211",
+                        "name": "3rd Quarter",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.8,
+                                    "d8": 3.8
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872212",
+                        "name": "4th Quarter",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.6,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "111_8047",
+                "lifetime": "pre-match",
+                "market_type": "high_scoring_half",
+                "name": "High Scoring Half",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872213",
+                        "name": "1st Half",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.85,
+                                    "d8": 1.83333333
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872214",
+                        "name": "2nd Half",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.92,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "112_8047",
+                "lifetime": "pre-match",
+                "market_type": "h2h_total_dble_ft",
+                "name": "Full Time Head To Head  / Total Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872215",
+                        "name": "<TEAM_HOME> / Over 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 4.1,
+                                    "d8": 4.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872216",
+                        "name": "<TEAM_HOME> / Under 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 4.0,
+                                    "d8": 4.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872217",
+                        "name": "<TEAM_AWAY> / Over 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.3,
+                                    "d8": 3.3
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872218",
+                        "name": "<TEAM_AWAY> / Under 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.2,
+                                    "d8": 3.2
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "113_8047",
+                "lifetime": "pre-match",
+                "market_type": "line_total_dble_ft",
+                "name": "Full Time Line/total Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872219",
+                        "name": "<TEAM_HOME> +2.5 / Over 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.7,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872220",
+                        "name": "<TEAM_HOME> +2.5 / Under 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.6,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872221",
+                        "name": "<TEAM_AWAY> -2.5 / Over 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.7,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872222",
+                        "name": "<TEAM_AWAY> -2.5 / Under 201.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.6,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "114_8047",
+                "lifetime": "pre-match",
+                "market_type": "h2h_total_dble_ht",
+                "name": "Half Time Head To Head  / Total Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872223",
+                        "name": "<TEAM_HOME> / Over 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.4,
+                                    "d8": 3.4
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872224",
+                        "name": "<TEAM_HOME> / Under 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.4,
+                                    "d8": 3.4
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872225",
+                        "name": "<TEAM_AWAY> / Over 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.9,
+                                    "d8": 3.9
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872226",
+                        "name": "<TEAM_AWAY> / Under 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.9,
+                                    "d8": 3.9
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "115_8047",
+                "lifetime": "pre-match",
+                "market_type": "line_total_dble_ht",
+                "name": "Half Time Line/total Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872227",
+                        "name": "<TEAM_HOME> -0.5 / Over 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.5,
+                                    "d8": 3.5
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872228",
+                        "name": "<TEAM_HOME> -0.5 / Under 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.5,
+                                    "d8": 3.5
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872229",
+                        "name": "<TEAM_AWAY> +0.5 / Over 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.8,
+                                    "d8": 3.8
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872230",
+                        "name": "<TEAM_AWAY> +0.5 / Under 102.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.8,
+                                    "d8": 3.8
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "116_8047",
+                "lifetime": "pre-match",
+                "market_type": "h2h_total_dble_qt",
+                "name": "Quarter Time Head To Head  / Total Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872231",
+                        "name": "<TEAM_HOME> / Over 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.7,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872232",
+                        "name": "<TEAM_HOME> / Under 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.7,
+                                    "d8": 3.6
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872233",
+                        "name": "<TEAM_AWAY> / Over 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.5,
+                                    "d8": 3.5
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872234",
+                        "name": "<TEAM_AWAY> / Under 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.5,
+                                    "d8": 3.5
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "117_8047",
+                "lifetime": "pre-match",
+                "market_type": "line_total_dble_qt",
+                "name": "Quarter Time Line  / Total Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872235",
+                        "name": "<TEAM_HOME> -0.5 / Over 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.9,
+                                    "d8": 3.9
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872236",
+                        "name": "<TEAM_HOME> -0.5 / Under 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.9,
+                                    "d8": 3.9
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872237",
+                        "name": "<TEAM_AWAY> +0.5 / Over 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.4,
+                                    "d8": 3.4
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872238",
+                        "name": "<TEAM_AWAY> +0.5 / Under 50.5",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 3.4,
+                                    "d8": 3.4
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "118_8047",
+                "lifetime": "pre-match",
+                "market_type": "first_half_h2h",
+                "name": "1st Half Head To Head",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055871950",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.76,
+                                    "d8": 1.75
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055871951",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.05,
+                                    "d8": 2.05
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "119_8047",
+                "lifetime": "pre-match",
+                "market_type": "first_qtr_h2h",
+                "name": "1st Quarter Head To Head",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872009",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.93,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872010",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.86,
+                                    "d8": 1.83333333
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "120_8047",
+                "lifetime": "pre-match",
+                "market_type": "2nd_quarter_h2h",
+                "name": "2nd Quarter Head to Head",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872058",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.84,
+                                    "d8": 1.83333333
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872059",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.95,
+                                    "d8": 1.9090909
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "121_8047",
+                "lifetime": "pre-match",
+                "market_type": "3rd_quarter_h2h",
+                "name": "3rd Quarter Head to Head",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872107",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.05,
+                                    "d8": 2.05
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872108",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.77,
+                                    "d8": 1.75
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "122_8047",
+                "lifetime": "pre-match",
+                "market_type": "4th_quarter_h2h",
+                "name": "4th Quarter Head to Head",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872156",
+                        "name": "<TEAM_HOME>",
+                        "participant_id": "10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.3,
+                                    "d8": 2.3
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872157",
+                        "name": "<TEAM_AWAY>",
+                        "participant_id": "13",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1.61,
+                                    "d8": 1.6
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "2210_8047",
+                "lifetime": "pre-match",
+                "market_type": "pick_the_score_double",
+                "name": "Pick the Score Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872268",
+                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 0-90",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 12.5,
+                                    "d8": 12.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872269",
+                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 91-100",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 11.0,
+                                    "d8": 11.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872270",
+                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 101-110",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 23.0,
+                                    "d8": 23.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872271",
+                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 111-120",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 91.0,
+                                    "d8": 81.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055872272",
+                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 121+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 1501.0,
+                                    "d8": 1001.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 6,
+                        "id": "1055872273",
+                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 0-90",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 9.0,
+                                    "d8": 9.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 7,
+                        "id": "1055872274",
+                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 91-100",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.5,
+                                    "d8": 6.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 8,
+                        "id": "1055872275",
+                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 101-110",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 7.5,
+                                    "d8": 7.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 9,
+                        "id": "1055872276",
+                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 111-120",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 21.0,
+                                    "d8": 21.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 10,
+                        "id": "1055872277",
+                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 121+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 201.0,
+                                    "d8": 201.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 11,
+                        "id": "1055872278",
+                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 0-90",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 16.5,
+                                    "d8": 15.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 12,
+                        "id": "1055872279",
+                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 91-100",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.0,
+                                    "d8": 6.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 13,
+                        "id": "1055872280",
+                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 101-110",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 8.0,
+                                    "d8": 8.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 14,
+                        "id": "1055872281",
+                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 111-120",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 11.5,
+                                    "d8": 11.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 15,
+                        "id": "1055872282",
+                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 121+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 91.0,
+                                    "d8": 81.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 16,
+                        "id": "1055872283",
+                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 0-90",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 51.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 17,
+                        "id": "1055872284",
+                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 91-100",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 15.0,
+                                    "d8": 15.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 18,
+                        "id": "1055872285",
+                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 101-110",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 10.0,
+                                    "d8": 10.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 19,
+                        "id": "1055872286",
+                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 111-120",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 16.5,
+                                    "d8": 15.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 20,
+                        "id": "1055872287",
+                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 121+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 61.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 21,
+                        "id": "1055872288",
+                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 0-90",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 751.0,
+                                    "d8": 701.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 22,
+                        "id": "1055872289",
+                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 91-100",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 121.0,
+                                    "d8": 111.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 23,
+                        "id": "1055872290",
+                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 101-110",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 61.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 24,
+                        "id": "1055872291",
+                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 111-120",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 51.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 25,
+                        "id": "1055872292",
+                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 121+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 331.0,
+                                    "d8": 301.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "2212_8047",
+                "lifetime": "pre-match",
+                "market_type": "half_timefull_time_margin_double",
+                "name": "Half Time/Full Time Margin Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872245",
+                        "name": "<TEAM_HOME>7+/<TEAM_HOME>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.0,
+                                    "d8": 6.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872246",
+                        "name": "<TEAM_HOME>7+/<TEAM_HOME>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 11.5,
+                                    "d8": 11.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872247",
+                        "name": "<TEAM_HOME>7+/<TEAM_AWAY>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 26.0,
+                                    "d8": 26.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872248",
+                        "name": "<TEAM_HOME>7+/<TEAM_AWAY>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 111.0,
+                                    "d8": 111.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055872249",
+                        "name": "<TEAM_HOME>1-6/<TEAM_HOME>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 11.0,
+                                    "d8": 11.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 6,
+                        "id": "1055872250",
+                        "name": "<TEAM_HOME>1-6/<TEAM_HOME>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 11.0,
+                                    "d8": 11.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 7,
+                        "id": "1055872251",
+                        "name": "<TEAM_HOME>1-6/<TEAM_AWAY>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 17.0,
+                                    "d8": 17.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 8,
+                        "id": "1055872252",
+                        "name": "<TEAM_HOME>1-6/<TEAM_AWAY>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 46.0,
+                                    "d8": 41.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 9,
+                        "id": "1055872253",
+                        "name": "Tie/<TEAM_HOME>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 61.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 10,
+                        "id": "1055872254",
+                        "name": "Tie/<TEAM_HOME>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 46.0,
+                                    "d8": 41.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 11,
+                        "id": "1055872255",
+                        "name": "Tie/<TEAM_AWAY>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 61.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 12,
+                        "id": "1055872256",
+                        "name": "Tie/<TEAM_AWAY>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 151.0,
+                                    "d8": 151.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 13,
+                        "id": "1055872257",
+                        "name": "<TEAM_AWAY>1-6/<TEAM_HOME>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 16.0,
+                                    "d8": 15.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 14,
+                        "id": "1055872258",
+                        "name": "<TEAM_AWAY>1-6/<TEAM_HOME>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 9.9,
+                                    "d8": 9.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 15,
+                        "id": "1055872259",
+                        "name": "<TEAM_AWAY>1-6/<TEAM_AWAY>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 11.0,
+                                    "d8": 11.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 16,
+                        "id": "1055872260",
+                        "name": "<TEAM_AWAY>1-6/<TEAM_AWAY>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 21.0,
+                                    "d8": 21.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 17,
+                        "id": "1055872261",
+                        "name": "<TEAM_AWAY>7+/<TEAM_HOME>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 26.0,
+                                    "d8": 26.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 18,
+                        "id": "1055872262",
+                        "name": "<TEAM_AWAY>7+/<TEAM_HOME>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 9.5,
+                                    "d8": 9.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 19,
+                        "id": "1055872263",
+                        "name": "<TEAM_AWAY>7+/<TEAM_AWAY>1-10",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.5,
+                                    "d8": 6.5
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 20,
+                        "id": "1055872264",
+                        "name": "<TEAM_AWAY>7+/<TEAM_AWAY>11+",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 6.0,
+                                    "d8": 6.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            },
+            {
+                "betting": "y",
+                "id": "2213_8047",
+                "lifetime": "pre-match",
+                "market_type": "half_timefull_time_double",
+                "name": "Half Time/Full Time Double",
+                "selections": [
+                    {
+                        "display_order": 1,
+                        "id": "1055872239",
+                        "name": "<TEAM_HOME>/<TEAM_HOME>",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.9,
+                                    "d8": 2.9
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 2,
+                        "id": "1055872240",
+                        "name": "<TEAM_HOME>/<TEAM_AWAY>",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 9.5,
+                                    "d8": 9.5
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 3,
+                        "id": "1055872241",
+                        "name": "<TEAM_AWAY>/<TEAM_AWAY>",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 2.65,
+                                    "d8": 2.625
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 4,
+                        "id": "1055872242",
+                        "name": "<TEAM_AWAY>/<TEAM_HOME>",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 4.0,
+                                    "d8": 4.0
+                                }
+                            }
+                        ],
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 5,
+                        "id": "1055872243",
+                        "name": "Tie/<TEAM_HOME>",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 31.0,
+                                    "d8": 29.0
+                                }
+                            }
+                        ],
+                        "side": "H",
+                        "status": "active"
+                    },
+                    {
+                        "display_order": 6,
+                        "id": "1055872244",
+                        "name": "Tie/<TEAM_AWAY>",
+                        "products": [
+                            {
+                                "name": "rubix",
+                                "w": {
+                                    "d2": 51.0,
+                                    "d8": 51.0
+                                }
+                            }
+                        ],
+                        "side": "A",
+                        "status": "active"
+                    }
+                ],
+                "status": "pre-match"
+            }
+        ],
+        "name": "<TEAM_AWAY> at <TEAM_HOME>",
+        "participants": [
+            {
+                "id": "10",
+                "name": "<TEAM_HOME>",
+                "side": "H",
+                "type": "team"
+            },
+            {
+                "id": "13",
+                "name": "<TEAM_AWAY>",
+                "side": "A",
+                "type": "team"
+            }
+        ],
+        "start_time": "2016-03-10T09:30:00.030+0930",
+        "status": "pre-match",
+        "sub_category": "NBA",
+        "sub_category_id": -1
+    },
+    "last_update": "2016-03-09T12:34:18.034+0930"
+}
