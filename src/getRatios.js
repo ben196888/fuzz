@@ -1,8 +1,7 @@
 import fuzz from 'fuzzball';
 
 const OPTIONS = {
-  full_process: true,
-  force_ascii: false,
+  full_process: false,
 };
 
 function getRatios(string1, string2) {
