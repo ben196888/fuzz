@@ -6,7 +6,7 @@
         50
     ],
     "Id": "g0ERK4BdrPnlJBu9I8VukdTH5NE",
-    "FixtureName": "<TEAM_AWAY> @ <TEAM_HOME>",
+    "FixtureName": "<SPECIALTEAMAWAYNAME> @ <SPECIALTEAMHOMENAME>",
     "MatchStatus": 30,
     "Sequence": 18,
     "Tags": {
@@ -110,7 +110,7 @@
                     "Id": "xxQCQZnZkZh-QcxpTpUfNIAudeY",
                     "Tags": {
                         "team": "1",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "7Y2pQj-zXF3N7IxXZmTRg32B33M"
                     },
                     "Price": 1.6,
@@ -121,7 +121,7 @@
                     "Id": "ywFVhs9Hprz5WRSoW4HXL46kg68",
                     "Tags": {
                         "team": "2",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "psf9TCKqA0Q5B48rZ3ZckvTntt0"
                     },
                     "Price": 2.5,
@@ -155,7 +155,7 @@
                     "Id": "72AdufIhfZr4w3fq6Y4zo4Nsbwg",
                     "Tags": {
                         "team": "1",
-                        "name": "<TEAM_HOME>  (Inc Overtime)",
+                        "name": "<SPECIALTEAMHOMENAME>  (Inc Overtime)",
                         "selectiongroupid": "HlEJTHtUo76HRcLoii3ONk9Ibko"
                     },
                     "Price": 1.55,
@@ -166,7 +166,7 @@
                     "Id": "fAySIX-jKHUZPgkTijxXZGfIMd0",
                     "Tags": {
                         "team": "2",
-                        "name": "<TEAM_AWAY>  (Inc Overtime)",
+                        "name": "<SPECIALTEAMAWAYNAME>  (Inc Overtime)",
                         "selectiongroupid": "cuTIyy2p5BgUHePMeH3QXb4BJx0"
                     },
                     "Price": 2.35,
@@ -191,7 +191,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "h1",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "a1KfO2HX9Q94cJrMtO9OggPWu2Y"
                     },
                     "Price": 0,
@@ -203,7 +203,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "h1",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "5MdS_Hwl7R0aA065DnUV9XsXFPg"
                     },
                     "Price": 0,
@@ -241,7 +241,7 @@
                         "identifier": "over",
                         "team": "1",
                         "upperline": "40",
-                        "name": "<TEAM_HOME> Over 40",
+                        "name": "<SPECIALTEAMHOMENAME> Over 40",
                         "selectiongroupid": "-yaHa1RFYz0kE4LL0rilHhbPMbI"
                     },
                     "Price": 251,
@@ -255,7 +255,7 @@
                         "team": "1",
                         "lowerline": "37",
                         "upperline": "40",
-                        "name": "<TEAM_HOME> 37-40",
+                        "name": "<SPECIALTEAMHOMENAME> 37-40",
                         "selectiongroupid": "7X6FUsc_ZEEAMpI7CeeT24m7XjI"
                     },
                     "Price": 151,
@@ -269,7 +269,7 @@
                         "team": "1",
                         "lowerline": "33",
                         "upperline": "36",
-                        "name": "<TEAM_HOME> 33-36",
+                        "name": "<SPECIALTEAMHOMENAME> 33-36",
                         "selectiongroupid": "lAohQ97IGjPSSEE4AB_xxzEOayU"
                     },
                     "Price": 67,
@@ -283,7 +283,7 @@
                         "team": "1",
                         "lowerline": "29",
                         "upperline": "32",
-                        "name": "<TEAM_HOME> 29-32",
+                        "name": "<SPECIALTEAMHOMENAME> 29-32",
                         "selectiongroupid": "8M1jPmkO9AG-RZY-N8XziDK5V3A"
                     },
                     "Price": 41,
@@ -297,7 +297,7 @@
                         "team": "1",
                         "lowerline": "25",
                         "upperline": "28",
-                        "name": "<TEAM_HOME> 25-28",
+                        "name": "<SPECIALTEAMHOMENAME> 25-28",
                         "selectiongroupid": "by_Q9ZZ0l9RaqHLzHx3OfeRe_xw"
                     },
                     "Price": 21,
@@ -311,7 +311,7 @@
                         "team": "1",
                         "lowerline": "21",
                         "upperline": "24",
-                        "name": "<TEAM_HOME> 21-24",
+                        "name": "<SPECIALTEAMHOMENAME> 21-24",
                         "selectiongroupid": "XwgRrt_BBg0OKbi1jy2_E_QJx7A"
                     },
                     "Price": 15,
@@ -325,7 +325,7 @@
                         "team": "1",
                         "lowerline": "17",
                         "upperline": "20",
-                        "name": "<TEAM_HOME> 17-20",
+                        "name": "<SPECIALTEAMHOMENAME> 17-20",
                         "selectiongroupid": "7OMmRpY-xY3TrjGIdoI-xMeWmAk"
                     },
                     "Price": 10,
@@ -339,7 +339,7 @@
                         "team": "1",
                         "lowerline": "13",
                         "upperline": "16",
-                        "name": "<TEAM_HOME> 13-16",
+                        "name": "<SPECIALTEAMHOMENAME> 13-16",
                         "selectiongroupid": "uUQ3sdWkBhRXjua2P6WmMKhbmyg"
                     },
                     "Price": 7.5,
@@ -353,7 +353,7 @@
                         "team": "1",
                         "lowerline": "9",
                         "upperline": "12",
-                        "name": "<TEAM_HOME> 9-12",
+                        "name": "<SPECIALTEAMHOMENAME> 9-12",
                         "selectiongroupid": "KDUfaBy35mYzsr_vTqK-5oRt4c4"
                     },
                     "Price": 6,
@@ -367,7 +367,7 @@
                         "team": "1",
                         "lowerline": "5",
                         "upperline": "8",
-                        "name": "<TEAM_HOME> 5-8",
+                        "name": "<SPECIALTEAMHOMENAME> 5-8",
                         "selectiongroupid": "sHcMeKzpMkse4CsXex2rZFOaYug"
                     },
                     "Price": 5.5,
@@ -381,7 +381,7 @@
                         "team": "1",
                         "lowerline": "1",
                         "upperline": "4",
-                        "name": "<TEAM_HOME> 1-4",
+                        "name": "<SPECIALTEAMHOMENAME> 1-4",
                         "selectiongroupid": "4XftSzbXCzHqqDaPQYZtZGb3lWU"
                     },
                     "Price": 5.5,
@@ -407,7 +407,7 @@
                         "team": "2",
                         "lowerline": "1",
                         "upperline": "4",
-                        "name": "<TEAM_AWAY> 1-4",
+                        "name": "<SPECIALTEAMAWAYNAME> 1-4",
                         "selectiongroupid": "yZMV-gZOuc_uJelWabcTGObtPgk"
                     },
                     "Price": 6.5,
@@ -421,7 +421,7 @@
                         "team": "2",
                         "lowerline": "5",
                         "upperline": "8",
-                        "name": "<TEAM_AWAY> 5-8",
+                        "name": "<SPECIALTEAMAWAYNAME> 5-8",
                         "selectiongroupid": "ehneI6whtwi_VsCRUsqyc_nKPJ4"
                     },
                     "Price": 7,
@@ -435,7 +435,7 @@
                         "team": "2",
                         "lowerline": "9",
                         "upperline": "12",
-                        "name": "<TEAM_AWAY> 9-12",
+                        "name": "<SPECIALTEAMAWAYNAME> 9-12",
                         "selectiongroupid": "l80qNyQ5_guCOYh5UldG3dViejM"
                     },
                     "Price": 9,
@@ -449,7 +449,7 @@
                         "team": "2",
                         "lowerline": "13",
                         "upperline": "16",
-                        "name": "<TEAM_AWAY> 13-16",
+                        "name": "<SPECIALTEAMAWAYNAME> 13-16",
                         "selectiongroupid": "EOK0Dov0qBqBSY3RfnTODR5JRo4"
                     },
                     "Price": 13,
@@ -463,7 +463,7 @@
                         "team": "2",
                         "lowerline": "17",
                         "upperline": "20",
-                        "name": "<TEAM_AWAY> 17-20",
+                        "name": "<SPECIALTEAMAWAYNAME> 17-20",
                         "selectiongroupid": "0yaC0t6LRJKfLSiA-fHXN6WBFnw"
                     },
                     "Price": 21,
@@ -477,7 +477,7 @@
                         "team": "2",
                         "lowerline": "21",
                         "upperline": "24",
-                        "name": "<TEAM_AWAY> 21-24",
+                        "name": "<SPECIALTEAMAWAYNAME> 21-24",
                         "selectiongroupid": "bpccUI0B3b-RnPPiYYYA2NnWSoU"
                     },
                     "Price": 34,
@@ -491,7 +491,7 @@
                         "team": "2",
                         "lowerline": "25",
                         "upperline": "28",
-                        "name": "<TEAM_AWAY> 25-28",
+                        "name": "<SPECIALTEAMAWAYNAME> 25-28",
                         "selectiongroupid": "0kM_3x4wenuxwuRrA2m7qcXBLZY"
                     },
                     "Price": 67,
@@ -505,7 +505,7 @@
                         "team": "2",
                         "lowerline": "29",
                         "upperline": "32",
-                        "name": "<TEAM_AWAY> 29-32",
+                        "name": "<SPECIALTEAMAWAYNAME> 29-32",
                         "selectiongroupid": "5KX4iNvUXtQl3w9hWyc9erPIs-8"
                     },
                     "Price": 151,
@@ -519,7 +519,7 @@
                         "team": "2",
                         "lowerline": "33",
                         "upperline": "36",
-                        "name": "<TEAM_AWAY> 33-36",
+                        "name": "<SPECIALTEAMAWAYNAME> 33-36",
                         "selectiongroupid": "xzO94TWpa6769vynC-4GHXrNvdQ"
                     },
                     "Price": 251,
@@ -533,7 +533,7 @@
                         "team": "2",
                         "lowerline": "37",
                         "upperline": "40",
-                        "name": "<TEAM_AWAY> 37-40",
+                        "name": "<SPECIALTEAMAWAYNAME> 37-40",
                         "selectiongroupid": "AOW9RAZM95k0yk8LWxkmeX3elQ0"
                     },
                     "Price": 501,
@@ -546,7 +546,7 @@
                         "identifier": "over",
                         "team": "2",
                         "upperline": "40",
-                        "name": "<TEAM_AWAY> Over 40",
+                        "name": "<SPECIALTEAMAWAYNAME> Over 40",
                         "selectiongroupid": "jcXamYZWZNmvzsy48fsRCVsE3o4"
                     },
                     "Price": 501,
@@ -571,7 +571,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "q1",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "ntDrGCvoKDeyaroXrcl5NTWJmG4"
                     },
                     "Price": 0,
@@ -583,7 +583,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "q1",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "jqZB2U_ggsv0S_rqm-UFsN6W4R4"
                     },
                     "Price": 0,
@@ -620,7 +620,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "q2",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "wzLc80b4E_dO_IpbtHsTG6DIHuU"
                     },
                     "Price": 0,
@@ -632,7 +632,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "q2",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "b9IsGBahAR92j_DBCRH9Y7AYzXI"
                     },
                     "Price": 0,
@@ -669,7 +669,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "q3",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "oNLFu5zUsFt_1T17ag6fOdhZZ70"
                     },
                     "Price": 0,
@@ -681,7 +681,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "q3",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "M2GA2UqXkRl3eVcz7xc929rCQXs"
                     },
                     "Price": 0,
@@ -718,7 +718,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "q4",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "h_SXGAKSiPvTcN7eE0kN8JCycvo"
                     },
                     "Price": 0,
@@ -730,7 +730,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "q4",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "eX7kxLynH8YgaB6PxLaAV8RLhk0"
                     },
                     "Price": 0,
@@ -767,7 +767,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "h1",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "MaGPAjQFY5Wb70VZrlqEcSajAgQ"
                     },
                     "Price": 0,
@@ -779,7 +779,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "h1",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "1d9tdzxTLb2UhM1PC0L1V4YLG0o"
                     },
                     "Price": 0,
@@ -804,7 +804,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "h2",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "YYB6xsGv8wiNUOD8uAjkoCAxdEk"
                     },
                     "Price": 0,
@@ -816,7 +816,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "h2",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "IacurZ_swvhQ7PKWYKew-7H_GcM"
                     },
                     "Price": 0,
@@ -841,7 +841,7 @@
                     "Tags": {
                         "team": "1",
                         "period": "h2",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "hhmMrc7UYIrxmpy5jXhilaGE43o"
                     },
                     "Price": 0,
@@ -853,7 +853,7 @@
                     "Tags": {
                         "team": "2",
                         "period": "h2",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "Xumrpatm7g9gTKaGmcDId4y1JDQ"
                     },
                     "Price": 0,
@@ -3311,7 +3311,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-46.5",
-                        "name": "<TEAM_HOME> -46.5",
+                        "name": "<SPECIALTEAMHOMENAME> -46.5",
                         "selectiongroupid": "DWj6t-QjomTEvz8YAPHR5OZnWns"
                     },
                     "Price": 0,
@@ -3323,7 +3323,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+46.5",
-                        "name": "<TEAM_AWAY> +46.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +46.5",
                         "selectiongroupid": "Rn8R_DugsQ2CMckc2oYn9am4GCU"
                     },
                     "Price": 0,
@@ -3348,7 +3348,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-43.5",
-                        "name": "<TEAM_HOME> -43.5",
+                        "name": "<SPECIALTEAMHOMENAME> -43.5",
                         "selectiongroupid": "lmWrmP6SAWk1oyydlac3vha87tw"
                     },
                     "Price": 0,
@@ -3360,7 +3360,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+43.5",
-                        "name": "<TEAM_AWAY> +43.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +43.5",
                         "selectiongroupid": "zSzwBcX7wHkKTjJyidCCAC4Jnm0"
                     },
                     "Price": 0,
@@ -3385,7 +3385,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-40.5",
-                        "name": "<TEAM_HOME> -40.5",
+                        "name": "<SPECIALTEAMHOMENAME> -40.5",
                         "selectiongroupid": "LJ0COvQUpN6Tw0xouxmtfJiR_5s"
                     },
                     "Price": 0,
@@ -3397,7 +3397,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+40.5",
-                        "name": "<TEAM_AWAY> +40.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +40.5",
                         "selectiongroupid": "ezcSlcRtd-3jr3bbxoKvDlotLWs"
                     },
                     "Price": 0,
@@ -3422,7 +3422,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-37.5",
-                        "name": "<TEAM_HOME> -37.5",
+                        "name": "<SPECIALTEAMHOMENAME> -37.5",
                         "selectiongroupid": "J4bInMH4087af9rJwxM6Ev3Yz8E"
                     },
                     "Price": 0,
@@ -3434,7 +3434,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+37.5",
-                        "name": "<TEAM_AWAY> +37.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +37.5",
                         "selectiongroupid": "moRoavHjvqxL7LR6-9F8mmXsjms"
                     },
                     "Price": 0,
@@ -3459,7 +3459,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-34.5",
-                        "name": "<TEAM_HOME> -34.5",
+                        "name": "<SPECIALTEAMHOMENAME> -34.5",
                         "selectiongroupid": "Ayw9YVcXTHWmV91vinR7uC7NS-I"
                     },
                     "Price": 0,
@@ -3471,7 +3471,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+34.5",
-                        "name": "<TEAM_AWAY> +34.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +34.5",
                         "selectiongroupid": "z33UYFjwkmGx3DdXUab5ceWOu3E"
                     },
                     "Price": 0,
@@ -3496,7 +3496,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-31.5",
-                        "name": "<TEAM_HOME> -31.5",
+                        "name": "<SPECIALTEAMHOMENAME> -31.5",
                         "selectiongroupid": "JIwBp7S5DuvtU6BFUdVfSW4gu74"
                     },
                     "Price": 0,
@@ -3508,7 +3508,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+31.5",
-                        "name": "<TEAM_AWAY> +31.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +31.5",
                         "selectiongroupid": "pu2JQvtTSMXG9nBBvStWoBuJlM4"
                     },
                     "Price": 0,
@@ -3533,7 +3533,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-28.5",
-                        "name": "<TEAM_HOME> -28.5",
+                        "name": "<SPECIALTEAMHOMENAME> -28.5",
                         "selectiongroupid": "3eIVMQSqCd7JjUqwFylCBD5UPcQ"
                     },
                     "Price": 0,
@@ -3545,7 +3545,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+28.5",
-                        "name": "<TEAM_AWAY> +28.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +28.5",
                         "selectiongroupid": "XVtHmsn5K7DXBxCeJvCCzanOYDo"
                     },
                     "Price": 0,
@@ -3570,7 +3570,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-25.5",
-                        "name": "<TEAM_HOME> -25.5",
+                        "name": "<SPECIALTEAMHOMENAME> -25.5",
                         "selectiongroupid": "wvMXYT0nSPYtCpvIc4LrPI5l9ug"
                     },
                     "Price": 0,
@@ -3582,7 +3582,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+25.5",
-                        "name": "<TEAM_AWAY> +25.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +25.5",
                         "selectiongroupid": "Jk0k2JK1OKdHhcaUtQMg5rEoFVc"
                     },
                     "Price": 0,
@@ -3607,7 +3607,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-22.5",
-                        "name": "<TEAM_HOME> -22.5",
+                        "name": "<SPECIALTEAMHOMENAME> -22.5",
                         "selectiongroupid": "yvZsw8BjihTG7tIE5NwLZCDYTqM"
                     },
                     "Price": 0,
@@ -3619,7 +3619,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+22.5",
-                        "name": "<TEAM_AWAY> +22.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +22.5",
                         "selectiongroupid": "cJLAi6hgtR4P8NCjaqytPmn4emI"
                     },
                     "Price": 0,
@@ -3644,7 +3644,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-19.5",
-                        "name": "<TEAM_HOME> -19.5",
+                        "name": "<SPECIALTEAMHOMENAME> -19.5",
                         "selectiongroupid": "uC9VNojj3TXHX28AUySht6E-hwQ"
                     },
                     "Price": 0,
@@ -3656,7 +3656,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+19.5",
-                        "name": "<TEAM_AWAY> +19.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +19.5",
                         "selectiongroupid": "yXZ3TfoquLPLIeyfttC9mbXwfS8"
                     },
                     "Price": 0,
@@ -3681,7 +3681,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-16.5",
-                        "name": "<TEAM_HOME> -16.5",
+                        "name": "<SPECIALTEAMHOMENAME> -16.5",
                         "selectiongroupid": "ZMwWuo0xVySd3BRRQYS_tBaXNkA"
                     },
                     "Price": 0,
@@ -3693,7 +3693,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+16.5",
-                        "name": "<TEAM_AWAY> +16.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +16.5",
                         "selectiongroupid": "oJ1BtLnuQk20D8RnX2Z4hyID_sU"
                     },
                     "Price": 0,
@@ -3718,7 +3718,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-13.5",
-                        "name": "<TEAM_HOME> -13.5",
+                        "name": "<SPECIALTEAMHOMENAME> -13.5",
                         "selectiongroupid": "8-OMmMC4qYn-suHz6ytRqAhlOc0"
                     },
                     "Price": 0,
@@ -3730,7 +3730,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+13.5",
-                        "name": "<TEAM_AWAY> +13.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +13.5",
                         "selectiongroupid": "zYxkCqWQotISiyDuR3B3_kvSsuo"
                     },
                     "Price": 0,
@@ -3755,7 +3755,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-10.5",
-                        "name": "<TEAM_HOME> -10.5",
+                        "name": "<SPECIALTEAMHOMENAME> -10.5",
                         "selectiongroupid": "34TMSgbHS_cpRn4SjL227MKqy44"
                     },
                     "Price": 3.1,
@@ -3767,7 +3767,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+10.5",
-                        "name": "<TEAM_AWAY> +10.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +10.5",
                         "selectiongroupid": "hs6XNikWPa81zJaWjWyqOYaDcpQ"
                     },
                     "Price": 1.33,
@@ -3792,7 +3792,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-7.5",
-                        "name": "<TEAM_HOME> -7.5",
+                        "name": "<SPECIALTEAMHOMENAME> -7.5",
                         "selectiongroupid": "6QdkUJCvIsv3kyuQAfSwewBunWQ"
                     },
                     "Price": 2.5,
@@ -3804,7 +3804,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+7.5",
-                        "name": "<TEAM_AWAY> +7.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +7.5",
                         "selectiongroupid": "sxLdHPrUtCpW1Bu4QSvS78tTpFo"
                     },
                     "Price": 1.5,
@@ -3829,7 +3829,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-4.5",
-                        "name": "<TEAM_HOME> -4.5",
+                        "name": "<SPECIALTEAMHOMENAME> -4.5",
                         "selectiongroupid": "Nh3nryChqTkQJHhLPjN2ZfmaW9c"
                     },
                     "Price": 2,
@@ -3841,7 +3841,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+4.5",
-                        "name": "<TEAM_AWAY> +4.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +4.5",
                         "selectiongroupid": "nQXE1nQ3X-TRUdBLWXkVfLHFxIE"
                     },
                     "Price": 1.75,
@@ -3866,7 +3866,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "-1.5",
-                        "name": "<TEAM_HOME> -1.5",
+                        "name": "<SPECIALTEAMHOMENAME> -1.5",
                         "selectiongroupid": "0qsXWBtLMWcqBDwQfbNz83AtUM0"
                     },
                     "Price": 1.65,
@@ -3878,7 +3878,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "+1.5",
-                        "name": "<TEAM_AWAY> +1.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +1.5",
                         "selectiongroupid": "teDjJqMhlm50dwWVp34nu1w_Jso"
                     },
                     "Price": 2.2,
@@ -3903,7 +3903,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+1.5",
-                        "name": "<TEAM_HOME> +1.5",
+                        "name": "<SPECIALTEAMHOMENAME> +1.5",
                         "selectiongroupid": "xy69OiGHNTKyA0j_8Xmbw005nSk"
                     },
                     "Price": 1.45,
@@ -3915,7 +3915,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-1.5",
-                        "name": "<TEAM_AWAY> -1.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -1.5",
                         "selectiongroupid": "t6iSRAV4mhSF8gb9fA_XVWjfFvY"
                     },
                     "Price": 2.5,
@@ -3940,7 +3940,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+4.5",
-                        "name": "<TEAM_HOME> +4.5",
+                        "name": "<SPECIALTEAMHOMENAME> +4.5",
                         "selectiongroupid": "kSWVFBHCSvjnsNKuTnDREVtPQFQ"
                     },
                     "Price": 0,
@@ -3952,7 +3952,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-4.5",
-                        "name": "<TEAM_AWAY> -4.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -4.5",
                         "selectiongroupid": "n7jNV1j745me4MOTgaNthGTN4M4"
                     },
                     "Price": 0,
@@ -3977,7 +3977,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+7.5",
-                        "name": "<TEAM_HOME> +7.5",
+                        "name": "<SPECIALTEAMHOMENAME> +7.5",
                         "selectiongroupid": "TD9d8SNRoFxfZWpwPsNXB-fUVaw"
                     },
                     "Price": 0,
@@ -3989,7 +3989,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-7.5",
-                        "name": "<TEAM_AWAY> -7.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -7.5",
                         "selectiongroupid": "M76h5mUNQ9E-I4A51EhUX-GzBbI"
                     },
                     "Price": 0,
@@ -4014,7 +4014,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+10.5",
-                        "name": "<TEAM_HOME> +10.5",
+                        "name": "<SPECIALTEAMHOMENAME> +10.5",
                         "selectiongroupid": "mzbXfPPYMIYFkySVXN4RnQ5UEvU"
                     },
                     "Price": 0,
@@ -4026,7 +4026,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-10.5",
-                        "name": "<TEAM_AWAY> -10.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -10.5",
                         "selectiongroupid": "CE4-Cz2J0ASJn_ieBKGgoX_yIm8"
                     },
                     "Price": 0,
@@ -4051,7 +4051,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+13.5",
-                        "name": "<TEAM_HOME> +13.5",
+                        "name": "<SPECIALTEAMHOMENAME> +13.5",
                         "selectiongroupid": "OJ7RDACFu5rMcLl_BIr31DwXcMI"
                     },
                     "Price": 0,
@@ -4063,7 +4063,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-13.5",
-                        "name": "<TEAM_AWAY> -13.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -13.5",
                         "selectiongroupid": "qs70l9My_hmpLp1QBlBpG6mM6Os"
                     },
                     "Price": 0,
@@ -4088,7 +4088,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+16.5",
-                        "name": "<TEAM_HOME> +16.5",
+                        "name": "<SPECIALTEAMHOMENAME> +16.5",
                         "selectiongroupid": "FabgsDlbowSXuT2eHd8Ywtmm_sA"
                     },
                     "Price": 0,
@@ -4100,7 +4100,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-16.5",
-                        "name": "<TEAM_AWAY> -16.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -16.5",
                         "selectiongroupid": "H0dedk-JEhnAAs6xwP3du8bofBY"
                     },
                     "Price": 0,
@@ -4125,7 +4125,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+19.5",
-                        "name": "<TEAM_HOME> +19.5",
+                        "name": "<SPECIALTEAMHOMENAME> +19.5",
                         "selectiongroupid": "ZycvXPFE1jL18yKpHFBSBcjP_AI"
                     },
                     "Price": 0,
@@ -4137,7 +4137,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-19.5",
-                        "name": "<TEAM_AWAY> -19.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -19.5",
                         "selectiongroupid": "VjJ6bTBC6UiZtRlJrUhpJGsiAI8"
                     },
                     "Price": 0,
@@ -4162,7 +4162,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+22.5",
-                        "name": "<TEAM_HOME> +22.5",
+                        "name": "<SPECIALTEAMHOMENAME> +22.5",
                         "selectiongroupid": "IouPuGOGgsI84j0D1OghEFJ4FKE"
                     },
                     "Price": 0,
@@ -4174,7 +4174,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-22.5",
-                        "name": "<TEAM_AWAY> -22.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -22.5",
                         "selectiongroupid": "QI3kjTB-uzsV_oM1WkKyjKnxUeM"
                     },
                     "Price": 0,
@@ -4199,7 +4199,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+25.5",
-                        "name": "<TEAM_HOME> +25.5",
+                        "name": "<SPECIALTEAMHOMENAME> +25.5",
                         "selectiongroupid": "9OufJ6yNSE5Oikm5VQL2nz4NEFc"
                     },
                     "Price": 0,
@@ -4211,7 +4211,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-25.5",
-                        "name": "<TEAM_AWAY> -25.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -25.5",
                         "selectiongroupid": "oyV3KmrsGKaChQrikqamKWEmpRA"
                     },
                     "Price": 0,
@@ -4236,7 +4236,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+28.5",
-                        "name": "<TEAM_HOME> +28.5",
+                        "name": "<SPECIALTEAMHOMENAME> +28.5",
                         "selectiongroupid": "JbQPK8E4QX0gJcv9mQvBsbqiVto"
                     },
                     "Price": 0,
@@ -4248,7 +4248,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-28.5",
-                        "name": "<TEAM_AWAY> -28.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -28.5",
                         "selectiongroupid": "E_veeSSU_o9IT0tLIIs8qHP2h_c"
                     },
                     "Price": 0,
@@ -4273,7 +4273,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+31.5",
-                        "name": "<TEAM_HOME> +31.5",
+                        "name": "<SPECIALTEAMHOMENAME> +31.5",
                         "selectiongroupid": "_y22H0pgfhEKotnF4qMURs6ANDs"
                     },
                     "Price": 0,
@@ -4285,7 +4285,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-31.5",
-                        "name": "<TEAM_AWAY> -31.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -31.5",
                         "selectiongroupid": "qgMeJlFQUvz7F5VuitPa2zZkXcQ"
                     },
                     "Price": 0,
@@ -4310,7 +4310,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+34.5",
-                        "name": "<TEAM_HOME> +34.5",
+                        "name": "<SPECIALTEAMHOMENAME> +34.5",
                         "selectiongroupid": "Bz-fWx8WMucfBEzOMov6B7VM164"
                     },
                     "Price": 0,
@@ -4322,7 +4322,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-34.5",
-                        "name": "<TEAM_AWAY> -34.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -34.5",
                         "selectiongroupid": "ty0HCa16jbfRjUPew1KsYmV7laY"
                     },
                     "Price": 0,
@@ -4347,7 +4347,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+37.5",
-                        "name": "<TEAM_HOME> +37.5",
+                        "name": "<SPECIALTEAMHOMENAME> +37.5",
                         "selectiongroupid": "iv6udsQVvmsa4wqaWwCu91J64hU"
                     },
                     "Price": 0,
@@ -4359,7 +4359,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-37.5",
-                        "name": "<TEAM_AWAY> -37.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -37.5",
                         "selectiongroupid": "26B-qzMc1dZEosZKsaufB9_ygLM"
                     },
                     "Price": 0,
@@ -4384,7 +4384,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+40.5",
-                        "name": "<TEAM_HOME> +40.5",
+                        "name": "<SPECIALTEAMHOMENAME> +40.5",
                         "selectiongroupid": "0k4UhqLuVBkJVTwfBWalKwFqU_w"
                     },
                     "Price": 0,
@@ -4396,7 +4396,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-40.5",
-                        "name": "<TEAM_AWAY> -40.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -40.5",
                         "selectiongroupid": "dCf-koJHp94t75lTJdBjDQrv55Y"
                     },
                     "Price": 0,
@@ -4421,7 +4421,7 @@
                     "Tags": {
                         "team": "1",
                         "line": "+43.5",
-                        "name": "<TEAM_HOME> +43.5",
+                        "name": "<SPECIALTEAMHOMENAME> +43.5",
                         "selectiongroupid": "K2GVjZTBf5KZ2RMCyIzbjA6pfqQ"
                     },
                     "Price": 0,
@@ -4433,7 +4433,7 @@
                     "Tags": {
                         "team": "2",
                         "line": "-43.5",
-                        "name": "<TEAM_AWAY> -43.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -43.5",
                         "selectiongroupid": "jnkjFhJpKaeSNtXgxwCo2DnVG6U"
                     },
                     "Price": 0,
@@ -4460,7 +4460,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-20.5",
-                        "name": "<TEAM_HOME> -20.5",
+                        "name": "<SPECIALTEAMHOMENAME> -20.5",
                         "selectiongroupid": "ZnyIBFYsxpDBJXODuWd87560cQM"
                     },
                     "Price": 0,
@@ -4473,7 +4473,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+20.5",
-                        "name": "<TEAM_AWAY> +20.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +20.5",
                         "selectiongroupid": "rVcsXOlSCAG89oUGmHsBP4BXX0I"
                     },
                     "Price": 0,
@@ -4500,7 +4500,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-18.5",
-                        "name": "<TEAM_HOME> -18.5",
+                        "name": "<SPECIALTEAMHOMENAME> -18.5",
                         "selectiongroupid": "UaY3-f2ueox7bSCZl4w2sVC4GXQ"
                     },
                     "Price": 0,
@@ -4513,7 +4513,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+18.5",
-                        "name": "<TEAM_AWAY> +18.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +18.5",
                         "selectiongroupid": "ZGmnV-jOEUgd0JMC1G7g_Y4U1As"
                     },
                     "Price": 0,
@@ -4540,7 +4540,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-16.5",
-                        "name": "<TEAM_HOME> -16.5",
+                        "name": "<SPECIALTEAMHOMENAME> -16.5",
                         "selectiongroupid": "FJwzPrBnlb2taVU-jrXTPYZu1KI"
                     },
                     "Price": 0,
@@ -4553,7 +4553,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+16.5",
-                        "name": "<TEAM_AWAY> +16.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +16.5",
                         "selectiongroupid": "2ztyXI4qTXg6se6JRik1o7uNva0"
                     },
                     "Price": 0,
@@ -4580,7 +4580,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-14.5",
-                        "name": "<TEAM_HOME> -14.5",
+                        "name": "<SPECIALTEAMHOMENAME> -14.5",
                         "selectiongroupid": "482QGgB8LsnsXf3x5fez0y6hUI0"
                     },
                     "Price": 0,
@@ -4593,7 +4593,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+14.5",
-                        "name": "<TEAM_AWAY> +14.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +14.5",
                         "selectiongroupid": "mLoeleq86Y7Yqj_tCMXTIqVzSko"
                     },
                     "Price": 0,
@@ -4620,7 +4620,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-12.5",
-                        "name": "<TEAM_HOME> -12.5",
+                        "name": "<SPECIALTEAMHOMENAME> -12.5",
                         "selectiongroupid": "4VN0YadmMzdt19GhXUcg3jlX1Pw"
                     },
                     "Price": 0,
@@ -4633,7 +4633,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+12.5",
-                        "name": "<TEAM_AWAY> +12.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +12.5",
                         "selectiongroupid": "G2kt_drlV6_qizcSnNC_esJdIcY"
                     },
                     "Price": 0,
@@ -4660,7 +4660,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-10.5",
-                        "name": "<TEAM_HOME> -10.5",
+                        "name": "<SPECIALTEAMHOMENAME> -10.5",
                         "selectiongroupid": "zDv1jdUjbIT4G_OoGy9bZ5RCFmI"
                     },
                     "Price": 0,
@@ -4673,7 +4673,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+10.5",
-                        "name": "<TEAM_AWAY> +10.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +10.5",
                         "selectiongroupid": "nHExoLAL9ctZjgO9ITG4qHIIBwg"
                     },
                     "Price": 0,
@@ -4700,7 +4700,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-8.5",
-                        "name": "<TEAM_HOME> -8.5",
+                        "name": "<SPECIALTEAMHOMENAME> -8.5",
                         "selectiongroupid": "MSRItISki0N6PYgwfVdxQY8Hvvk"
                     },
                     "Price": 0,
@@ -4713,7 +4713,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+8.5",
-                        "name": "<TEAM_AWAY> +8.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +8.5",
                         "selectiongroupid": "NrR-vrTIwY2O19FxRlzae1RiP2g"
                     },
                     "Price": 0,
@@ -4740,7 +4740,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-6.5",
-                        "name": "<TEAM_HOME> -6.5",
+                        "name": "<SPECIALTEAMHOMENAME> -6.5",
                         "selectiongroupid": "3CWfT6neDZHzZF3zh0nY6Kz8srU"
                     },
                     "Price": 0,
@@ -4753,7 +4753,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+6.5",
-                        "name": "<TEAM_AWAY> +6.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +6.5",
                         "selectiongroupid": "pHvQssFfQttasaD7-alfIcdP71Y"
                     },
                     "Price": 0,
@@ -4780,7 +4780,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-4.5",
-                        "name": "<TEAM_HOME> -4.5",
+                        "name": "<SPECIALTEAMHOMENAME> -4.5",
                         "selectiongroupid": "qJqXKfNWEYw_3cR15NO3t9i1J7Y"
                     },
                     "Price": 0,
@@ -4793,7 +4793,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+4.5",
-                        "name": "<TEAM_AWAY> +4.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +4.5",
                         "selectiongroupid": "mELwRUXhJqI_picfEw1T3uGBHUs"
                     },
                     "Price": 0,
@@ -4820,7 +4820,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-2.5",
-                        "name": "<TEAM_HOME> -2.5",
+                        "name": "<SPECIALTEAMHOMENAME> -2.5",
                         "selectiongroupid": "96it1BwglAWytNZtDTLkcG-Or58"
                     },
                     "Price": 0,
@@ -4833,7 +4833,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+2.5",
-                        "name": "<TEAM_AWAY> +2.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +2.5",
                         "selectiongroupid": "lklbe3CGvcgmjhTENLP_HYEKFDQ"
                     },
                     "Price": 0,
@@ -4860,7 +4860,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "-0.5",
-                        "name": "<TEAM_HOME> -0.5",
+                        "name": "<SPECIALTEAMHOMENAME> -0.5",
                         "selectiongroupid": "uQYy1UNHSB_PLiQz-48DcRM7lJ0"
                     },
                     "Price": 0,
@@ -4873,7 +4873,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "+0.5",
-                        "name": "<TEAM_AWAY> +0.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +0.5",
                         "selectiongroupid": "DMdmXZ7vLOxCFFbizpN5hLAiAPE"
                     },
                     "Price": 0,
@@ -4900,7 +4900,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+1.5",
-                        "name": "<TEAM_HOME> +1.5",
+                        "name": "<SPECIALTEAMHOMENAME> +1.5",
                         "selectiongroupid": "IACECCL7n8-2PZ8vd6HWns7q6wQ"
                     },
                     "Price": 0,
@@ -4913,7 +4913,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-1.5",
-                        "name": "<TEAM_AWAY> -1.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -1.5",
                         "selectiongroupid": "jIgH8IFwa1r5KRLmOSYuNRdPUJY"
                     },
                     "Price": 0,
@@ -4940,7 +4940,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+3.5",
-                        "name": "<TEAM_HOME> +3.5",
+                        "name": "<SPECIALTEAMHOMENAME> +3.5",
                         "selectiongroupid": "MUKKxb_0qcuS1BDy-eGnA1lb-7o"
                     },
                     "Price": 0,
@@ -4953,7 +4953,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-3.5",
-                        "name": "<TEAM_AWAY> -3.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -3.5",
                         "selectiongroupid": "K8IJqYdJpwuxC_J5YH7IBGjEnDk"
                     },
                     "Price": 0,
@@ -4980,7 +4980,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+5.5",
-                        "name": "<TEAM_HOME> +5.5",
+                        "name": "<SPECIALTEAMHOMENAME> +5.5",
                         "selectiongroupid": "TsEh_cE1l8JiTVor1Tg3nXG5Dbo"
                     },
                     "Price": 0,
@@ -4993,7 +4993,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-5.5",
-                        "name": "<TEAM_AWAY> -5.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -5.5",
                         "selectiongroupid": "woWq7lGZbQz1zRychJkQqMGWG7U"
                     },
                     "Price": 0,
@@ -5020,7 +5020,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+7.5",
-                        "name": "<TEAM_HOME> +7.5",
+                        "name": "<SPECIALTEAMHOMENAME> +7.5",
                         "selectiongroupid": "Q3CirZP5MAdC1vD4Yj3ZisCsjC8"
                     },
                     "Price": 0,
@@ -5033,7 +5033,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-7.5",
-                        "name": "<TEAM_AWAY> -7.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -7.5",
                         "selectiongroupid": "IOp37zkBcE4VymQaq7mEYAeoJNU"
                     },
                     "Price": 0,
@@ -5060,7 +5060,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+9.5",
-                        "name": "<TEAM_HOME> +9.5",
+                        "name": "<SPECIALTEAMHOMENAME> +9.5",
                         "selectiongroupid": "SMt3jJS94Qhkj-JtwNbtdJop_ZE"
                     },
                     "Price": 0,
@@ -5073,7 +5073,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-9.5",
-                        "name": "<TEAM_AWAY> -9.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -9.5",
                         "selectiongroupid": "nxeHhUsbkEE3S-Ybysd5nhb63Ic"
                     },
                     "Price": 0,
@@ -5100,7 +5100,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+11.5",
-                        "name": "<TEAM_HOME> +11.5",
+                        "name": "<SPECIALTEAMHOMENAME> +11.5",
                         "selectiongroupid": "fe7Zs0s6t2EBFM91CgTqurOKFec"
                     },
                     "Price": 0,
@@ -5113,7 +5113,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-11.5",
-                        "name": "<TEAM_AWAY> -11.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -11.5",
                         "selectiongroupid": "AJNTSXUrDinzqdPpAqBPOhy5Vlw"
                     },
                     "Price": 0,
@@ -5140,7 +5140,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+13.5",
-                        "name": "<TEAM_HOME> +13.5",
+                        "name": "<SPECIALTEAMHOMENAME> +13.5",
                         "selectiongroupid": "HbJQ7Vj-SsQRgGPWUUwNb5-JXnw"
                     },
                     "Price": 0,
@@ -5153,7 +5153,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-13.5",
-                        "name": "<TEAM_AWAY> -13.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -13.5",
                         "selectiongroupid": "h2Fh_Arj5gVtN3EEimNHto8Kkjg"
                     },
                     "Price": 0,
@@ -5180,7 +5180,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+15.5",
-                        "name": "<TEAM_HOME> +15.5",
+                        "name": "<SPECIALTEAMHOMENAME> +15.5",
                         "selectiongroupid": "S64KSaJBVFHtk3KaR-AGqlPyOck"
                     },
                     "Price": 0,
@@ -5193,7 +5193,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-15.5",
-                        "name": "<TEAM_AWAY> -15.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -15.5",
                         "selectiongroupid": "vULEkkL5dVsPlHnDBF78GS3vyPc"
                     },
                     "Price": 0,
@@ -5220,7 +5220,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+17.5",
-                        "name": "<TEAM_HOME> +17.5",
+                        "name": "<SPECIALTEAMHOMENAME> +17.5",
                         "selectiongroupid": "UtzIPPV15dLxArudbWgB_ll60B8"
                     },
                     "Price": 0,
@@ -5233,7 +5233,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-17.5",
-                        "name": "<TEAM_AWAY> -17.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -17.5",
                         "selectiongroupid": "gMVA77RVlw_Vqn5abD3B5SHHYD4"
                     },
                     "Price": 0,
@@ -5260,7 +5260,7 @@
                         "team": "1",
                         "period": "h1",
                         "line": "+19.5",
-                        "name": "<TEAM_HOME> +19.5",
+                        "name": "<SPECIALTEAMHOMENAME> +19.5",
                         "selectiongroupid": "X4Nt-omLrl2UK2XOCLXAgwkDgtw"
                     },
                     "Price": 0,
@@ -5273,7 +5273,7 @@
                         "team": "2",
                         "period": "h1",
                         "line": "-19.5",
-                        "name": "<TEAM_AWAY> -19.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -19.5",
                         "selectiongroupid": "rT5xIaCrGjHNYnnz0ZqhxQs1HoE"
                     },
                     "Price": 0,
@@ -6140,7 +6140,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-20.5",
-                        "name": "<TEAM_HOME> -20.5",
+                        "name": "<SPECIALTEAMHOMENAME> -20.5",
                         "selectiongroupid": "da3yq9zbxAsGLYrsIUXvCY7Vnz0"
                     },
                     "Price": 0,
@@ -6153,7 +6153,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+20.5",
-                        "name": "<TEAM_AWAY> +20.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +20.5",
                         "selectiongroupid": "Ray2jQHM4WR04Qpr2LSl-yjUGMc"
                     },
                     "Price": 0,
@@ -6180,7 +6180,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-18.5",
-                        "name": "<TEAM_HOME> -18.5",
+                        "name": "<SPECIALTEAMHOMENAME> -18.5",
                         "selectiongroupid": "ytyldZdrFwgFSFy5rE_VWscF6Rc"
                     },
                     "Price": 0,
@@ -6193,7 +6193,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+18.5",
-                        "name": "<TEAM_AWAY> +18.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +18.5",
                         "selectiongroupid": "ikjCK1-H_V_hrJAptZ4a8-n4m_c"
                     },
                     "Price": 0,
@@ -6220,7 +6220,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-16.5",
-                        "name": "<TEAM_HOME> -16.5",
+                        "name": "<SPECIALTEAMHOMENAME> -16.5",
                         "selectiongroupid": "mKVtYnnxu5Av1dZrvSe0SrUcTAs"
                     },
                     "Price": 0,
@@ -6233,7 +6233,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+16.5",
-                        "name": "<TEAM_AWAY> +16.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +16.5",
                         "selectiongroupid": "mhyUSIObOgafpUidh6p1wIi9ZkE"
                     },
                     "Price": 0,
@@ -6260,7 +6260,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-14.5",
-                        "name": "<TEAM_HOME> -14.5",
+                        "name": "<SPECIALTEAMHOMENAME> -14.5",
                         "selectiongroupid": "pjGeu8D0JWZy7yEXUm34dkl3bHg"
                     },
                     "Price": 0,
@@ -6273,7 +6273,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+14.5",
-                        "name": "<TEAM_AWAY> +14.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +14.5",
                         "selectiongroupid": "MS-w7McW93AnuS7jsMrPb-cx8J4"
                     },
                     "Price": 0,
@@ -6300,7 +6300,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-12.5",
-                        "name": "<TEAM_HOME> -12.5",
+                        "name": "<SPECIALTEAMHOMENAME> -12.5",
                         "selectiongroupid": "jrNB5epsTkeW2OEWFPyx4NPo0TQ"
                     },
                     "Price": 0,
@@ -6313,7 +6313,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+12.5",
-                        "name": "<TEAM_AWAY> +12.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +12.5",
                         "selectiongroupid": "TwYdGyhu9CmoVoUZfxmGZrgIMmM"
                     },
                     "Price": 0,
@@ -6340,7 +6340,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-10.5",
-                        "name": "<TEAM_HOME> -10.5",
+                        "name": "<SPECIALTEAMHOMENAME> -10.5",
                         "selectiongroupid": "oX73UwNeV31KSGFFGjNzDfoS-ho"
                     },
                     "Price": 0,
@@ -6353,7 +6353,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+10.5",
-                        "name": "<TEAM_AWAY> +10.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +10.5",
                         "selectiongroupid": "N_ExcBjUPtnH7p7u1T_FcJVqvo8"
                     },
                     "Price": 0,
@@ -6380,7 +6380,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-8.5",
-                        "name": "<TEAM_HOME> -8.5",
+                        "name": "<SPECIALTEAMHOMENAME> -8.5",
                         "selectiongroupid": "xw7_ONb0mAaqgjo7AlMx8WFSuGk"
                     },
                     "Price": 0,
@@ -6393,7 +6393,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+8.5",
-                        "name": "<TEAM_AWAY> +8.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +8.5",
                         "selectiongroupid": "65Y6lZOF92zskcKT8xIbRzy_6PM"
                     },
                     "Price": 0,
@@ -6420,7 +6420,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-6.5",
-                        "name": "<TEAM_HOME> -6.5",
+                        "name": "<SPECIALTEAMHOMENAME> -6.5",
                         "selectiongroupid": "gAcbwCVupxr0Rasb0x5_A892DBw"
                     },
                     "Price": 0,
@@ -6433,7 +6433,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+6.5",
-                        "name": "<TEAM_AWAY> +6.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +6.5",
                         "selectiongroupid": "O5iD4qjwQVKhaISAF-1RK2DHFBw"
                     },
                     "Price": 0,
@@ -6460,7 +6460,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-4.5",
-                        "name": "<TEAM_HOME> -4.5",
+                        "name": "<SPECIALTEAMHOMENAME> -4.5",
                         "selectiongroupid": "aKYQ848pP2r1k39u6TflpRy6TqY"
                     },
                     "Price": 0,
@@ -6473,7 +6473,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+4.5",
-                        "name": "<TEAM_AWAY> +4.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +4.5",
                         "selectiongroupid": "D8UlUXL4MWy0dhc9DO2wo65iVx0"
                     },
                     "Price": 0,
@@ -6500,7 +6500,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-2.5",
-                        "name": "<TEAM_HOME> -2.5",
+                        "name": "<SPECIALTEAMHOMENAME> -2.5",
                         "selectiongroupid": "FUI07S37EzBcnNzo5FO3YeKGbEQ"
                     },
                     "Price": 0,
@@ -6513,7 +6513,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+2.5",
-                        "name": "<TEAM_AWAY> +2.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +2.5",
                         "selectiongroupid": "hInn4KZHwJK9adb25sOkL8D-G8I"
                     },
                     "Price": 0,
@@ -6540,7 +6540,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "-0.5",
-                        "name": "<TEAM_HOME> -0.5",
+                        "name": "<SPECIALTEAMHOMENAME> -0.5",
                         "selectiongroupid": "aAE-bLQv29gMzIHlgXJJgo9Hdyo"
                     },
                     "Price": 0,
@@ -6553,7 +6553,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "+0.5",
-                        "name": "<TEAM_AWAY> +0.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +0.5",
                         "selectiongroupid": "FW8A7Gd8rnsa_XzOA6Z6KUz8s-k"
                     },
                     "Price": 0,
@@ -6580,7 +6580,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+1.5",
-                        "name": "<TEAM_HOME> +1.5",
+                        "name": "<SPECIALTEAMHOMENAME> +1.5",
                         "selectiongroupid": "t9P8dTwEjB2Q07RzPDrbZYBpogk"
                     },
                     "Price": 0,
@@ -6593,7 +6593,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-1.5",
-                        "name": "<TEAM_AWAY> -1.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -1.5",
                         "selectiongroupid": "xD9HaAMf-HQS5RQ90kmJZcWCLC8"
                     },
                     "Price": 0,
@@ -6620,7 +6620,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+3.5",
-                        "name": "<TEAM_HOME> +3.5",
+                        "name": "<SPECIALTEAMHOMENAME> +3.5",
                         "selectiongroupid": "uddV7Pmceoe6K1rUHsFjCHXroUA"
                     },
                     "Price": 0,
@@ -6633,7 +6633,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-3.5",
-                        "name": "<TEAM_AWAY> -3.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -3.5",
                         "selectiongroupid": "8IaiFr29zJ3xAU0HHOBJPWm75ss"
                     },
                     "Price": 0,
@@ -6660,7 +6660,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+5.5",
-                        "name": "<TEAM_HOME> +5.5",
+                        "name": "<SPECIALTEAMHOMENAME> +5.5",
                         "selectiongroupid": "K8shQB7Pgaed74A5PFqZkFlqMhM"
                     },
                     "Price": 0,
@@ -6673,7 +6673,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-5.5",
-                        "name": "<TEAM_AWAY> -5.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -5.5",
                         "selectiongroupid": "5Dph0XqCFvynLyrSqAC_nkVogQM"
                     },
                     "Price": 0,
@@ -6700,7 +6700,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+7.5",
-                        "name": "<TEAM_HOME> +7.5",
+                        "name": "<SPECIALTEAMHOMENAME> +7.5",
                         "selectiongroupid": "G-RRxGMtzJPOpsUD6EPh0mU47H4"
                     },
                     "Price": 0,
@@ -6713,7 +6713,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-7.5",
-                        "name": "<TEAM_AWAY> -7.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -7.5",
                         "selectiongroupid": "GkTxAumFj6VOKh89ZJxZ8V4isFU"
                     },
                     "Price": 0,
@@ -6740,7 +6740,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+9.5",
-                        "name": "<TEAM_HOME> +9.5",
+                        "name": "<SPECIALTEAMHOMENAME> +9.5",
                         "selectiongroupid": "5JiVFg7fhx6cEX-pa3Sf8TTbkEM"
                     },
                     "Price": 0,
@@ -6753,7 +6753,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-9.5",
-                        "name": "<TEAM_AWAY> -9.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -9.5",
                         "selectiongroupid": "evGxD4x_gwxb4UWFBCHx_0uqsis"
                     },
                     "Price": 0,
@@ -6780,7 +6780,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+11.5",
-                        "name": "<TEAM_HOME> +11.5",
+                        "name": "<SPECIALTEAMHOMENAME> +11.5",
                         "selectiongroupid": "1T5176DW29XMdoMeEsK0jS8YFvc"
                     },
                     "Price": 0,
@@ -6793,7 +6793,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-11.5",
-                        "name": "<TEAM_AWAY> -11.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -11.5",
                         "selectiongroupid": "o7-cFtX5oNW665gWwkLjW1L-ncs"
                     },
                     "Price": 0,
@@ -6820,7 +6820,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+13.5",
-                        "name": "<TEAM_HOME> +13.5",
+                        "name": "<SPECIALTEAMHOMENAME> +13.5",
                         "selectiongroupid": "7p7hNbHbmwIlf55gqCuw2ROFj1M"
                     },
                     "Price": 0,
@@ -6833,7 +6833,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-13.5",
-                        "name": "<TEAM_AWAY> -13.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -13.5",
                         "selectiongroupid": "2b9UqPQGdtPmW05KkiqMJk0PoQw"
                     },
                     "Price": 0,
@@ -6860,7 +6860,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+15.5",
-                        "name": "<TEAM_HOME> +15.5",
+                        "name": "<SPECIALTEAMHOMENAME> +15.5",
                         "selectiongroupid": "qnrWeMUIkAJK2-pJFnEcmbPwKQU"
                     },
                     "Price": 0,
@@ -6873,7 +6873,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-15.5",
-                        "name": "<TEAM_AWAY> -15.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -15.5",
                         "selectiongroupid": "k1eeJo-DD9axm_jSsLZ-jUa2xNk"
                     },
                     "Price": 0,
@@ -6900,7 +6900,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+17.5",
-                        "name": "<TEAM_HOME> +17.5",
+                        "name": "<SPECIALTEAMHOMENAME> +17.5",
                         "selectiongroupid": "vmKbbOI3MFX1N2lXP0ufu0nVE4k"
                     },
                     "Price": 0,
@@ -6913,7 +6913,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-17.5",
-                        "name": "<TEAM_AWAY> -17.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -17.5",
                         "selectiongroupid": "J2M214V2KQWzvotRX9FCpqGsprk"
                     },
                     "Price": 0,
@@ -6940,7 +6940,7 @@
                         "team": "1",
                         "period": "h2",
                         "line": "+19.5",
-                        "name": "<TEAM_HOME> +19.5",
+                        "name": "<SPECIALTEAMHOMENAME> +19.5",
                         "selectiongroupid": "xeZtlgqVQePOSaKw8MXvVBuxKVI"
                     },
                     "Price": 0,
@@ -6953,7 +6953,7 @@
                         "team": "2",
                         "period": "h2",
                         "line": "-19.5",
-                        "name": "<TEAM_AWAY> -19.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -19.5",
                         "selectiongroupid": "T_F5reWsUrDuYy1Z_F_JwSqGSmg"
                     },
                     "Price": 0,
@@ -9733,7 +9733,7 @@
                     "Tags": {
                         "h1team": "1",
                         "h2team": "1",
-                        "name": "<TEAM_HOME>-<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>-<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "_Dc48Xbn8HIymYuC03oy4opCvrw"
                     },
                     "Price": 1.95,
@@ -9745,7 +9745,7 @@
                     "Tags": {
                         "h1team": "2",
                         "h2team": "1",
-                        "name": "<TEAM_AWAY>-<TEAM_HOME>",
+                        "name": "<SPECIALTEAMAWAYNAME>-<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "0ZGbpG-JQBC-ecBt0h1fx6-RTWM"
                     },
                     "Price": 6,
@@ -9757,7 +9757,7 @@
                     "Tags": {
                         "h1team": "1",
                         "h2team": "2",
-                        "name": "<TEAM_HOME>-<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMHOMENAME>-<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "aGPrRtgAEEDeoip6XTWFChlo39M"
                     },
                     "Price": 7.5,
@@ -9769,7 +9769,7 @@
                     "Tags": {
                         "h1team": "2",
                         "h2team": "2",
-                        "name": "<TEAM_AWAY>-<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>-<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "9bjvRayGmaNwWy9LuYtpD7qFQOY"
                     },
                     "Price": 3,
@@ -9781,7 +9781,7 @@
                     "Tags": {
                         "h1team": "1",
                         "h2team": "3",
-                        "name": "<TEAM_HOME>-Tie",
+                        "name": "<SPECIALTEAMHOMENAME>-Tie",
                         "selectiongroupid": "Qc-bQKyuPZ08MSXJDeXDMvPuZ2I"
                     },
                     "Price": 41,
@@ -9793,7 +9793,7 @@
                     "Tags": {
                         "h1team": "2",
                         "h2team": "3",
-                        "name": "<TEAM_AWAY>-Tie",
+                        "name": "<SPECIALTEAMAWAYNAME>-Tie",
                         "selectiongroupid": "yXFrFUlfXEiD3fLu5SpEFjFYWng"
                     },
                     "Price": 34,
@@ -9817,7 +9817,7 @@
                     "Tags": {
                         "h1team": "3",
                         "h2team": "1",
-                        "name": "Tie-<TEAM_HOME>",
+                        "name": "Tie-<SPECIALTEAMHOMENAME>",
                         "selectiongroupid": "SBYi6-XIR1U9q3vBiayehBrRXvE"
                     },
                     "Price": 21,
@@ -9829,7 +9829,7 @@
                     "Tags": {
                         "h1team": "3",
                         "h2team": "2",
-                        "name": "Tie-<TEAM_AWAY>",
+                        "name": "Tie-<SPECIALTEAMAWAYNAME>",
                         "selectiongroupid": "6iILRGXerxv_KQdQ1pY3AZqOW7E"
                     },
                     "Price": 34,
@@ -9855,7 +9855,7 @@
                         "identifier": "over",
                         "team": "1",
                         "line": "6.5",
-                        "name": "<TEAM_HOME> 7 Or More ",
+                        "name": "<SPECIALTEAMHOMENAME> 7 Or More ",
                         "selectiongroupid": "408YBykeXabckDMvPNTxflz1zw0"
                     },
                     "Price": 2.25,
@@ -9881,7 +9881,7 @@
                         "identifier": "over",
                         "team": "2",
                         "line": "6.5",
-                        "name": "<TEAM_AWAY> 7 Or More ",
+                        "name": "<SPECIALTEAMAWAYNAME> 7 Or More ",
                         "selectiongroupid": "LTWjFmScs9usPRpHUQaE2eHND4w"
                     },
                     "Price": 4.25,
@@ -9907,7 +9907,7 @@
                         "identifier": "over",
                         "team": "1",
                         "upperline": "10",
-                        "name": "<TEAM_HOME> Over 10",
+                        "name": "<SPECIALTEAMHOMENAME> Over 10",
                         "selectiongroupid": "O66c0Jalt9KB74vskSjYtZHKU_k"
                     },
                     "Price": 3.1,
@@ -9921,7 +9921,7 @@
                         "team": "1",
                         "lowerline": "1",
                         "upperline": "10",
-                        "name": "<TEAM_HOME> 1-10",
+                        "name": "<SPECIALTEAMHOMENAME> 1-10",
                         "selectiongroupid": "v5KSGtahXoRUwXrYH-L30oAhPps"
                     },
                     "Price": 2.75,
@@ -9935,7 +9935,7 @@
                         "team": "2",
                         "lowerline": "1",
                         "upperline": "10",
-                        "name": "<TEAM_AWAY> 1-10",
+                        "name": "<SPECIALTEAMAWAYNAME> 1-10",
                         "selectiongroupid": "cma5_1a6g343A2BTai0aFE3OYUw"
                     },
                     "Price": 3.4,
@@ -9948,7 +9948,7 @@
                         "identifier": "over",
                         "team": "2",
                         "upperline": "10",
-                        "name": "<TEAM_AWAY> Over 10",
+                        "name": "<SPECIALTEAMAWAYNAME> Over 10",
                         "selectiongroupid": "hW5GxNINzFjjIDMEdlKKzb-TGHU"
                     },
                     "Price": 6,
@@ -9960,7 +9960,7 @@
     ],
     "Participants": [
         {
-            "Name": "<TEAM_HOME>",
+            "Name": "<SPECIALTEAMHOMENAME>",
             "Id": 1,
             "Tags": {
                 "HomeOrAway": "Home",
@@ -9969,7 +9969,7 @@
             }
         },
         {
-            "Name": "<TEAM_AWAY>",
+            "Name": "<SPECIALTEAMAWAYNAME>",
             "Id": 2,
             "Tags": {
                 "HomeOrAway": "Away",

@@ -16,7 +16,7 @@
                         "display_order": 1,
                         "handicap": "-0.5",
                         "id": "1055871952",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -34,7 +34,7 @@
                         "display_order": 2,
                         "handicap": "+0.5",
                         "id": "1055871953",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -62,7 +62,7 @@
                         "display_order": 1,
                         "handicap": "-0.5",
                         "id": "1055872011",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -80,7 +80,7 @@
                         "display_order": 2,
                         "handicap": "+0.5",
                         "id": "1055872012",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -150,7 +150,7 @@
                         "display_order": 1,
                         "handicap": "-0.5",
                         "id": "1055872060",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -168,7 +168,7 @@
                         "display_order": 2,
                         "handicap": "+0.5",
                         "id": "1055872061",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -238,7 +238,7 @@
                         "display_order": 1,
                         "handicap": "+0.5",
                         "id": "1055872109",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -256,7 +256,7 @@
                         "display_order": 2,
                         "handicap": "-0.5",
                         "id": "1055872110",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -326,7 +326,7 @@
                         "display_order": 1,
                         "handicap": "+0.5",
                         "id": "1055872158",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -344,7 +344,7 @@
                         "display_order": 2,
                         "handicap": "-0.5",
                         "id": "1055872159",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -414,7 +414,7 @@
                         "display_order": 1,
                         "handicap": "+2.5",
                         "id": "1055871244",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -432,7 +432,7 @@
                         "display_order": 2,
                         "handicap": "-2.5",
                         "id": "1055871245",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -501,7 +501,7 @@
                     {
                         "display_order": 1,
                         "id": "1055871242",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -518,7 +518,7 @@
                     {
                         "display_order": 2,
                         "id": "1055871243",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -716,7 +716,7 @@
                         "display_order": 16,
                         "handicap": "-11.5",
                         "id": "1055871261",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -734,7 +734,7 @@
                         "display_order": 17,
                         "handicap": "-10.5",
                         "id": "1055871262",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -752,7 +752,7 @@
                         "display_order": 18,
                         "handicap": "-9.5",
                         "id": "1055871263",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -770,7 +770,7 @@
                         "display_order": 19,
                         "handicap": "-8.5",
                         "id": "1055871264",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -788,7 +788,7 @@
                         "display_order": 20,
                         "handicap": "-7.5",
                         "id": "1055871265",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -806,7 +806,7 @@
                         "display_order": 21,
                         "handicap": "-6.5",
                         "id": "1055871266",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -824,7 +824,7 @@
                         "display_order": 22,
                         "handicap": "-5.5",
                         "id": "1055871267",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -842,7 +842,7 @@
                         "display_order": 23,
                         "handicap": "-4.5",
                         "id": "1055871268",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -860,7 +860,7 @@
                         "display_order": 24,
                         "handicap": "-3.5",
                         "id": "1055871269",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -878,7 +878,7 @@
                         "display_order": 25,
                         "handicap": "-2.5",
                         "id": "1055871270",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -896,7 +896,7 @@
                         "display_order": 26,
                         "handicap": "+2.5",
                         "id": "1055871271",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -914,7 +914,7 @@
                         "display_order": 27,
                         "handicap": "+3.5",
                         "id": "1055871272",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -932,7 +932,7 @@
                         "display_order": 28,
                         "handicap": "+4.5",
                         "id": "1055871273",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -950,7 +950,7 @@
                         "display_order": 29,
                         "handicap": "+5.5",
                         "id": "1055871274",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -968,7 +968,7 @@
                         "display_order": 30,
                         "handicap": "+6.5",
                         "id": "1055871275",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -986,7 +986,7 @@
                         "display_order": 31,
                         "handicap": "+7.5",
                         "id": "1055871276",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -1004,7 +1004,7 @@
                         "display_order": 32,
                         "handicap": "+8.5",
                         "id": "1055871277",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -1022,7 +1022,7 @@
                         "display_order": 33,
                         "handicap": "+9.5",
                         "id": "1055871278",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -1040,7 +1040,7 @@
                         "display_order": 34,
                         "handicap": "+10.5",
                         "id": "1055871279",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -1058,7 +1058,7 @@
                         "display_order": 35,
                         "handicap": "+11.5",
                         "id": "1055871280",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -1076,7 +1076,7 @@
                         "display_order": 36,
                         "handicap": "+12.5",
                         "id": "1055871281",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -1094,7 +1094,7 @@
                         "display_order": 67,
                         "handicap": "+11.5",
                         "id": "1055871312",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1112,7 +1112,7 @@
                         "display_order": 68,
                         "handicap": "+10.5",
                         "id": "1055871313",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1130,7 +1130,7 @@
                         "display_order": 69,
                         "handicap": "+9.5",
                         "id": "1055871314",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1148,7 +1148,7 @@
                         "display_order": 70,
                         "handicap": "+8.5",
                         "id": "1055871315",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1166,7 +1166,7 @@
                         "display_order": 71,
                         "handicap": "+7.5",
                         "id": "1055871316",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1184,7 +1184,7 @@
                         "display_order": 72,
                         "handicap": "+6.5",
                         "id": "1055871317",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1202,7 +1202,7 @@
                         "display_order": 73,
                         "handicap": "+5.5",
                         "id": "1055871318",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1220,7 +1220,7 @@
                         "display_order": 74,
                         "handicap": "+4.5",
                         "id": "1055871319",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1238,7 +1238,7 @@
                         "display_order": 75,
                         "handicap": "+3.5",
                         "id": "1055871320",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1256,7 +1256,7 @@
                         "display_order": 76,
                         "handicap": "+2.5",
                         "id": "1055871321",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1274,7 +1274,7 @@
                         "display_order": 77,
                         "handicap": "-2.5",
                         "id": "1055871322",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1292,7 +1292,7 @@
                         "display_order": 78,
                         "handicap": "-3.5",
                         "id": "1055871323",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1310,7 +1310,7 @@
                         "display_order": 79,
                         "handicap": "-4.5",
                         "id": "1055871324",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1328,7 +1328,7 @@
                         "display_order": 80,
                         "handicap": "-5.5",
                         "id": "1055871325",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1346,7 +1346,7 @@
                         "display_order": 81,
                         "handicap": "-6.5",
                         "id": "1055871326",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1364,7 +1364,7 @@
                         "display_order": 82,
                         "handicap": "-7.5",
                         "id": "1055871327",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1382,7 +1382,7 @@
                         "display_order": 83,
                         "handicap": "-8.5",
                         "id": "1055871328",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1400,7 +1400,7 @@
                         "display_order": 84,
                         "handicap": "-9.5",
                         "id": "1055871329",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1418,7 +1418,7 @@
                         "display_order": 85,
                         "handicap": "-10.5",
                         "id": "1055871330",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1436,7 +1436,7 @@
                         "display_order": 86,
                         "handicap": "-11.5",
                         "id": "1055871331",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -1454,7 +1454,7 @@
                         "display_order": 87,
                         "handicap": "-12.5",
                         "id": "1055871332",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -2928,7 +2928,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872205",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -2945,7 +2945,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872206",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -2972,7 +2972,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872207",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -2989,7 +2989,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872208",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -3126,7 +3126,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872215",
-                        "name": "<TEAM_HOME> / Over 201.5",
+                        "name": "<SPECIALTEAMHOMENAME> / Over 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3142,7 +3142,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872216",
-                        "name": "<TEAM_HOME> / Under 201.5",
+                        "name": "<SPECIALTEAMHOMENAME> / Under 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3158,7 +3158,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872217",
-                        "name": "<TEAM_AWAY> / Over 201.5",
+                        "name": "<SPECIALTEAMAWAYNAME> / Over 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3174,7 +3174,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872218",
-                        "name": "<TEAM_AWAY> / Under 201.5",
+                        "name": "<SPECIALTEAMAWAYNAME> / Under 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3200,7 +3200,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872219",
-                        "name": "<TEAM_HOME> +2.5 / Over 201.5",
+                        "name": "<SPECIALTEAMHOMENAME> +2.5 / Over 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3216,7 +3216,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872220",
-                        "name": "<TEAM_HOME> +2.5 / Under 201.5",
+                        "name": "<SPECIALTEAMHOMENAME> +2.5 / Under 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3232,7 +3232,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872221",
-                        "name": "<TEAM_AWAY> -2.5 / Over 201.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -2.5 / Over 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3248,7 +3248,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872222",
-                        "name": "<TEAM_AWAY> -2.5 / Under 201.5",
+                        "name": "<SPECIALTEAMAWAYNAME> -2.5 / Under 201.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3274,7 +3274,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872223",
-                        "name": "<TEAM_HOME> / Over 102.5",
+                        "name": "<SPECIALTEAMHOMENAME> / Over 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3290,7 +3290,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872224",
-                        "name": "<TEAM_HOME> / Under 102.5",
+                        "name": "<SPECIALTEAMHOMENAME> / Under 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3306,7 +3306,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872225",
-                        "name": "<TEAM_AWAY> / Over 102.5",
+                        "name": "<SPECIALTEAMAWAYNAME> / Over 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3322,7 +3322,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872226",
-                        "name": "<TEAM_AWAY> / Under 102.5",
+                        "name": "<SPECIALTEAMAWAYNAME> / Under 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3348,7 +3348,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872227",
-                        "name": "<TEAM_HOME> -0.5 / Over 102.5",
+                        "name": "<SPECIALTEAMHOMENAME> -0.5 / Over 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3364,7 +3364,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872228",
-                        "name": "<TEAM_HOME> -0.5 / Under 102.5",
+                        "name": "<SPECIALTEAMHOMENAME> -0.5 / Under 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3380,7 +3380,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872229",
-                        "name": "<TEAM_AWAY> +0.5 / Over 102.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +0.5 / Over 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3396,7 +3396,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872230",
-                        "name": "<TEAM_AWAY> +0.5 / Under 102.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +0.5 / Under 102.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3422,7 +3422,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872231",
-                        "name": "<TEAM_HOME> / Over 50.5",
+                        "name": "<SPECIALTEAMHOMENAME> / Over 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3438,7 +3438,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872232",
-                        "name": "<TEAM_HOME> / Under 50.5",
+                        "name": "<SPECIALTEAMHOMENAME> / Under 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3454,7 +3454,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872233",
-                        "name": "<TEAM_AWAY> / Over 50.5",
+                        "name": "<SPECIALTEAMAWAYNAME> / Over 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3470,7 +3470,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872234",
-                        "name": "<TEAM_AWAY> / Under 50.5",
+                        "name": "<SPECIALTEAMAWAYNAME> / Under 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3496,7 +3496,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872235",
-                        "name": "<TEAM_HOME> -0.5 / Over 50.5",
+                        "name": "<SPECIALTEAMHOMENAME> -0.5 / Over 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3512,7 +3512,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872236",
-                        "name": "<TEAM_HOME> -0.5 / Under 50.5",
+                        "name": "<SPECIALTEAMHOMENAME> -0.5 / Under 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3528,7 +3528,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872237",
-                        "name": "<TEAM_AWAY> +0.5 / Over 50.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +0.5 / Over 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3544,7 +3544,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872238",
-                        "name": "<TEAM_AWAY> +0.5 / Under 50.5",
+                        "name": "<SPECIALTEAMAWAYNAME> +0.5 / Under 50.5",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3570,7 +3570,7 @@
                     {
                         "display_order": 1,
                         "id": "1055871950",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -3587,7 +3587,7 @@
                     {
                         "display_order": 2,
                         "id": "1055871951",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -3614,7 +3614,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872009",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -3631,7 +3631,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872010",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -3658,7 +3658,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872058",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -3675,7 +3675,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872059",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -3702,7 +3702,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872107",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -3719,7 +3719,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872108",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -3746,7 +3746,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872156",
-                        "name": "<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>",
                         "participant_id": "10",
                         "products": [
                             {
@@ -3763,7 +3763,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872157",
-                        "name": "<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>",
                         "participant_id": "13",
                         "products": [
                             {
@@ -3790,7 +3790,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872268",
-                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 0-90",
+                        "name": "<SPECIALTEAMHOMENAME> 0-90/<SPECIALTEAMAWAYNAME> 0-90",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3805,7 +3805,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872269",
-                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 91-100",
+                        "name": "<SPECIALTEAMHOMENAME> 0-90/<SPECIALTEAMAWAYNAME> 91-100",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3820,7 +3820,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872270",
-                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 101-110",
+                        "name": "<SPECIALTEAMHOMENAME> 0-90/<SPECIALTEAMAWAYNAME> 101-110",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3835,7 +3835,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872271",
-                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 111-120",
+                        "name": "<SPECIALTEAMHOMENAME> 0-90/<SPECIALTEAMAWAYNAME> 111-120",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3850,7 +3850,7 @@
                     {
                         "display_order": 5,
                         "id": "1055872272",
-                        "name": "<TEAM_HOME> 0-90/<TEAM_AWAY> 121+",
+                        "name": "<SPECIALTEAMHOMENAME> 0-90/<SPECIALTEAMAWAYNAME> 121+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3865,7 +3865,7 @@
                     {
                         "display_order": 6,
                         "id": "1055872273",
-                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 0-90",
+                        "name": "<SPECIALTEAMHOMENAME> 91-100/<SPECIALTEAMAWAYNAME> 0-90",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3880,7 +3880,7 @@
                     {
                         "display_order": 7,
                         "id": "1055872274",
-                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 91-100",
+                        "name": "<SPECIALTEAMHOMENAME> 91-100/<SPECIALTEAMAWAYNAME> 91-100",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3895,7 +3895,7 @@
                     {
                         "display_order": 8,
                         "id": "1055872275",
-                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 101-110",
+                        "name": "<SPECIALTEAMHOMENAME> 91-100/<SPECIALTEAMAWAYNAME> 101-110",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3910,7 +3910,7 @@
                     {
                         "display_order": 9,
                         "id": "1055872276",
-                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 111-120",
+                        "name": "<SPECIALTEAMHOMENAME> 91-100/<SPECIALTEAMAWAYNAME> 111-120",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3925,7 +3925,7 @@
                     {
                         "display_order": 10,
                         "id": "1055872277",
-                        "name": "<TEAM_HOME> 91-100/<TEAM_AWAY> 121+",
+                        "name": "<SPECIALTEAMHOMENAME> 91-100/<SPECIALTEAMAWAYNAME> 121+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3940,7 +3940,7 @@
                     {
                         "display_order": 11,
                         "id": "1055872278",
-                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 0-90",
+                        "name": "<SPECIALTEAMHOMENAME> 101-110/<SPECIALTEAMAWAYNAME> 0-90",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3955,7 +3955,7 @@
                     {
                         "display_order": 12,
                         "id": "1055872279",
-                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 91-100",
+                        "name": "<SPECIALTEAMHOMENAME> 101-110/<SPECIALTEAMAWAYNAME> 91-100",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3970,7 +3970,7 @@
                     {
                         "display_order": 13,
                         "id": "1055872280",
-                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 101-110",
+                        "name": "<SPECIALTEAMHOMENAME> 101-110/<SPECIALTEAMAWAYNAME> 101-110",
                         "products": [
                             {
                                 "name": "rubix",
@@ -3985,7 +3985,7 @@
                     {
                         "display_order": 14,
                         "id": "1055872281",
-                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 111-120",
+                        "name": "<SPECIALTEAMHOMENAME> 101-110/<SPECIALTEAMAWAYNAME> 111-120",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4000,7 +4000,7 @@
                     {
                         "display_order": 15,
                         "id": "1055872282",
-                        "name": "<TEAM_HOME> 101-110/<TEAM_AWAY> 121+",
+                        "name": "<SPECIALTEAMHOMENAME> 101-110/<SPECIALTEAMAWAYNAME> 121+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4015,7 +4015,7 @@
                     {
                         "display_order": 16,
                         "id": "1055872283",
-                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 0-90",
+                        "name": "<SPECIALTEAMHOMENAME> 111-120/<SPECIALTEAMAWAYNAME> 0-90",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4030,7 +4030,7 @@
                     {
                         "display_order": 17,
                         "id": "1055872284",
-                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 91-100",
+                        "name": "<SPECIALTEAMHOMENAME> 111-120/<SPECIALTEAMAWAYNAME> 91-100",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4045,7 +4045,7 @@
                     {
                         "display_order": 18,
                         "id": "1055872285",
-                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 101-110",
+                        "name": "<SPECIALTEAMHOMENAME> 111-120/<SPECIALTEAMAWAYNAME> 101-110",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4060,7 +4060,7 @@
                     {
                         "display_order": 19,
                         "id": "1055872286",
-                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 111-120",
+                        "name": "<SPECIALTEAMHOMENAME> 111-120/<SPECIALTEAMAWAYNAME> 111-120",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4075,7 +4075,7 @@
                     {
                         "display_order": 20,
                         "id": "1055872287",
-                        "name": "<TEAM_HOME> 111-120/<TEAM_AWAY> 121+",
+                        "name": "<SPECIALTEAMHOMENAME> 111-120/<SPECIALTEAMAWAYNAME> 121+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4090,7 +4090,7 @@
                     {
                         "display_order": 21,
                         "id": "1055872288",
-                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 0-90",
+                        "name": "<SPECIALTEAMHOMENAME> 121+/<SPECIALTEAMAWAYNAME> 0-90",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4105,7 +4105,7 @@
                     {
                         "display_order": 22,
                         "id": "1055872289",
-                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 91-100",
+                        "name": "<SPECIALTEAMHOMENAME> 121+/<SPECIALTEAMAWAYNAME> 91-100",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4120,7 +4120,7 @@
                     {
                         "display_order": 23,
                         "id": "1055872290",
-                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 101-110",
+                        "name": "<SPECIALTEAMHOMENAME> 121+/<SPECIALTEAMAWAYNAME> 101-110",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4135,7 +4135,7 @@
                     {
                         "display_order": 24,
                         "id": "1055872291",
-                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 111-120",
+                        "name": "<SPECIALTEAMHOMENAME> 121+/<SPECIALTEAMAWAYNAME> 111-120",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4150,7 +4150,7 @@
                     {
                         "display_order": 25,
                         "id": "1055872292",
-                        "name": "<TEAM_HOME> 121+/<TEAM_AWAY> 121+",
+                        "name": "<SPECIALTEAMHOMENAME> 121+/<SPECIALTEAMAWAYNAME> 121+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4175,7 +4175,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872245",
-                        "name": "<TEAM_HOME>7+/<TEAM_HOME>11+",
+                        "name": "<SPECIALTEAMHOMENAME>7+/<SPECIALTEAMHOMENAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4191,7 +4191,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872246",
-                        "name": "<TEAM_HOME>7+/<TEAM_HOME>1-10",
+                        "name": "<SPECIALTEAMHOMENAME>7+/<SPECIALTEAMHOMENAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4207,7 +4207,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872247",
-                        "name": "<TEAM_HOME>7+/<TEAM_AWAY>1-10",
+                        "name": "<SPECIALTEAMHOMENAME>7+/<SPECIALTEAMAWAYNAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4222,7 +4222,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872248",
-                        "name": "<TEAM_HOME>7+/<TEAM_AWAY>11+",
+                        "name": "<SPECIALTEAMHOMENAME>7+/<SPECIALTEAMAWAYNAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4237,7 +4237,7 @@
                     {
                         "display_order": 5,
                         "id": "1055872249",
-                        "name": "<TEAM_HOME>1-6/<TEAM_HOME>11+",
+                        "name": "<SPECIALTEAMHOMENAME>1-6/<SPECIALTEAMHOMENAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4253,7 +4253,7 @@
                     {
                         "display_order": 6,
                         "id": "1055872250",
-                        "name": "<TEAM_HOME>1-6/<TEAM_HOME>1-10",
+                        "name": "<SPECIALTEAMHOMENAME>1-6/<SPECIALTEAMHOMENAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4269,7 +4269,7 @@
                     {
                         "display_order": 7,
                         "id": "1055872251",
-                        "name": "<TEAM_HOME>1-6/<TEAM_AWAY>1-10",
+                        "name": "<SPECIALTEAMHOMENAME>1-6/<SPECIALTEAMAWAYNAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4284,7 +4284,7 @@
                     {
                         "display_order": 8,
                         "id": "1055872252",
-                        "name": "<TEAM_HOME>1-6/<TEAM_AWAY>11+",
+                        "name": "<SPECIALTEAMHOMENAME>1-6/<SPECIALTEAMAWAYNAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4299,7 +4299,7 @@
                     {
                         "display_order": 9,
                         "id": "1055872253",
-                        "name": "Tie/<TEAM_HOME>11+",
+                        "name": "Tie/<SPECIALTEAMHOMENAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4315,7 +4315,7 @@
                     {
                         "display_order": 10,
                         "id": "1055872254",
-                        "name": "Tie/<TEAM_HOME>1-10",
+                        "name": "Tie/<SPECIALTEAMHOMENAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4331,7 +4331,7 @@
                     {
                         "display_order": 11,
                         "id": "1055872255",
-                        "name": "Tie/<TEAM_AWAY>1-10",
+                        "name": "Tie/<SPECIALTEAMAWAYNAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4347,7 +4347,7 @@
                     {
                         "display_order": 12,
                         "id": "1055872256",
-                        "name": "Tie/<TEAM_AWAY>11+",
+                        "name": "Tie/<SPECIALTEAMAWAYNAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4363,7 +4363,7 @@
                     {
                         "display_order": 13,
                         "id": "1055872257",
-                        "name": "<TEAM_AWAY>1-6/<TEAM_HOME>11+",
+                        "name": "<SPECIALTEAMAWAYNAME>1-6/<SPECIALTEAMHOMENAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4378,7 +4378,7 @@
                     {
                         "display_order": 14,
                         "id": "1055872258",
-                        "name": "<TEAM_AWAY>1-6/<TEAM_HOME>1-10",
+                        "name": "<SPECIALTEAMAWAYNAME>1-6/<SPECIALTEAMHOMENAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4393,7 +4393,7 @@
                     {
                         "display_order": 15,
                         "id": "1055872259",
-                        "name": "<TEAM_AWAY>1-6/<TEAM_AWAY>1-10",
+                        "name": "<SPECIALTEAMAWAYNAME>1-6/<SPECIALTEAMAWAYNAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4409,7 +4409,7 @@
                     {
                         "display_order": 16,
                         "id": "1055872260",
-                        "name": "<TEAM_AWAY>1-6/<TEAM_AWAY>11+",
+                        "name": "<SPECIALTEAMAWAYNAME>1-6/<SPECIALTEAMAWAYNAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4425,7 +4425,7 @@
                     {
                         "display_order": 17,
                         "id": "1055872261",
-                        "name": "<TEAM_AWAY>7+/<TEAM_HOME>11+",
+                        "name": "<SPECIALTEAMAWAYNAME>7+/<SPECIALTEAMHOMENAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4440,7 +4440,7 @@
                     {
                         "display_order": 18,
                         "id": "1055872262",
-                        "name": "<TEAM_AWAY>7+/<TEAM_HOME>1-10",
+                        "name": "<SPECIALTEAMAWAYNAME>7+/<SPECIALTEAMHOMENAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4455,7 +4455,7 @@
                     {
                         "display_order": 19,
                         "id": "1055872263",
-                        "name": "<TEAM_AWAY>7+/<TEAM_AWAY>1-10",
+                        "name": "<SPECIALTEAMAWAYNAME>7+/<SPECIALTEAMAWAYNAME>1-10",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4471,7 +4471,7 @@
                     {
                         "display_order": 20,
                         "id": "1055872264",
-                        "name": "<TEAM_AWAY>7+/<TEAM_AWAY>11+",
+                        "name": "<SPECIALTEAMAWAYNAME>7+/<SPECIALTEAMAWAYNAME>11+",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4497,7 +4497,7 @@
                     {
                         "display_order": 1,
                         "id": "1055872239",
-                        "name": "<TEAM_HOME>/<TEAM_HOME>",
+                        "name": "<SPECIALTEAMHOMENAME>/<SPECIALTEAMHOMENAME>",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4513,7 +4513,7 @@
                     {
                         "display_order": 2,
                         "id": "1055872240",
-                        "name": "<TEAM_HOME>/<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMHOMENAME>/<SPECIALTEAMAWAYNAME>",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4528,7 +4528,7 @@
                     {
                         "display_order": 3,
                         "id": "1055872241",
-                        "name": "<TEAM_AWAY>/<TEAM_AWAY>",
+                        "name": "<SPECIALTEAMAWAYNAME>/<SPECIALTEAMAWAYNAME>",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4544,7 +4544,7 @@
                     {
                         "display_order": 4,
                         "id": "1055872242",
-                        "name": "<TEAM_AWAY>/<TEAM_HOME>",
+                        "name": "<SPECIALTEAMAWAYNAME>/<SPECIALTEAMHOMENAME>",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4559,7 +4559,7 @@
                     {
                         "display_order": 5,
                         "id": "1055872243",
-                        "name": "Tie/<TEAM_HOME>",
+                        "name": "Tie/<SPECIALTEAMHOMENAME>",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4575,7 +4575,7 @@
                     {
                         "display_order": 6,
                         "id": "1055872244",
-                        "name": "Tie/<TEAM_AWAY>",
+                        "name": "Tie/<SPECIALTEAMAWAYNAME>",
                         "products": [
                             {
                                 "name": "rubix",
@@ -4592,17 +4592,17 @@
                 "status": "pre-match"
             }
         ],
-        "name": "<TEAM_AWAY> at <TEAM_HOME>",
+        "name": "<SPECIALTEAMAWAYNAME> at <SPECIALTEAMHOMENAME>",
         "participants": [
             {
                 "id": "10",
-                "name": "<TEAM_HOME>",
+                "name": "<SPECIALTEAMHOMENAME>",
                 "side": "H",
                 "type": "team"
             },
             {
                 "id": "13",
-                "name": "<TEAM_AWAY>",
+                "name": "<SPECIALTEAMAWAYNAME>",
                 "side": "A",
                 "type": "team"
             }
