@@ -27,6 +27,17 @@ function getFlattenSelectionTemplate(eventObj) {
 const SSFlattenSelectionTemplate = getFlattenSelectionTemplate(SSEventObj);
 const RSFlattenSelectionTemplate = getFlattenSelectionTemplate(RSEventObj);
 
+const HOME_NAME = '<SPECIALTEAMHOMENAME>';
+const AWAY_NAME = '<SPECIALTEAMAWAYNAME>';
+const compare = (objA, objB) => {
+  const a = (objA.name.includes(HOME_NAME) || objA.name.includes(AWAY_NAME));
+  const b = (objB.name.includes(HOME_NAME) || objB.name.includes(AWAY_NAME));
+  return b - a;
+}
+
+SSFlattenSelectionTemplate.sort(compare);
+RSFlattenSelectionTemplate.sort(compare);
+
 const PATTERN = [new RegExp('<SPECIALTEAMAWAYNAME>', 'g'), new RegExp('<SPECIALTEAMHOMENAME>', 'g')];
 
 export function getSSSelectionList(teamTuple) {
