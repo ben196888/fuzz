@@ -9,7 +9,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      tab: 0,
+      tab: 1,
     };
   }
 
