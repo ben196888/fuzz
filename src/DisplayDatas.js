@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import genTeamTuples from './genTeamTuples';
 import getCombinations from './getCombinations';
 import { getRSSelectionList, getSSSelectionList } from './getSelectionList';
+import mapSelections from './mapSelections';
 
 const TEAM_TUPLES = genTeamTuples();
 const TEAM_TUPLES_SIZE = TEAM_TUPLES.length;
@@ -16,17 +17,18 @@ class DisplayDatas extends Component {
       pool: [],
       SSEvents: [],
       RSEvents: [],
+      results: [],
     };
   }
 
   render() {
-    const RSEvents = this.state.RSEvents;
     const SSEvents = this.state.SSEvents;
-    const RSTeamTuples = RSEvents.map(v => TEAM_TUPLES[v]);
+    const RSEvents = this.state.RSEvents;
     const SSTeamTuples = SSEvents.map(v => TEAM_TUPLES[v]);
+    const RSTeamTuples = RSEvents.map(v => TEAM_TUPLES[v]);
 
-    console.log(RSTeamTuples.map(teamTuple => getRSSelectionList(teamTuple)));
-    console.log(SSTeamTuples.map(teamTuple => getSSSelectionList(teamTuple)));
+    const queries = SSTeamTuples.map(teamTuple => getSSSelectionList(teamTuple))[0] || [];
+    const choices = RSTeamTuples.map(teamTuple => getRSSelectionList(teamTuple))[0] || [];
 
     return (
       <div>
@@ -37,6 +39,7 @@ class DisplayDatas extends Component {
             pool,
             SSEvents: [],
             RSEvents: [],
+            results: [],
           });
         }}>
           Get Pool Candidates
@@ -52,14 +55,39 @@ class DisplayDatas extends Component {
             ...this.state,
             RSEvents,
             SSEvents,
+            results: [],
           });
         }}>
           Get RS and SS selections
+        </button>
+        <button onClick={() => {
+          const results = mapSelections(queries, choices);
+          this.setState(prevState => {
+            return {
+              ...prevState,
+              results,
+            };
+          });
+        }}>
+          Get Selection Matching Result
         </button>
         <div>{`Team Tuples size: ${TEAM_TUPLES_SIZE}, Pool size: ${POOL_SIZE}, Selection size: ${EVENT_SIZE}`}</div>
         <div>{this.state.pool.reduce((s, v) => `${s}${v}, `, 'Pool Candidates: ')}</div>
         <div>{this.state.RSEvents.reduce((s, v) => `${s}${v}, `, 'RSEvents: ')}</div>
         <div>{this.state.SSEvents.reduce((s, v) => `${s}${v}, `, 'SSEvents: ')}</div>
+        <div>
+          {this.state.results.map((tuple, i) => {
+            const bgStyle = tuple ? {} : { background: '#ccc' };
+            return (
+              <div key={i} style={bgStyle}>
+                <span>{queries[i].name}</span>
+                <span style={{float: 'right'}}>
+                  {tuple ? `${tuple[0].name}, Mark: ${tuple[1]}` : 'Not Match'}
+                </span>
+              </div>
+            );
+          })}
+        </div>
       </div>
     );
   }
