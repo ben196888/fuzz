@@ -31,7 +31,14 @@ const getSSMarkets = markets => {
 };
 
 const getSSParticipants = participants => {
-  return [];
+  return participants.map(participant => {
+    const propsShouldPick = ['Name', 'Tags.HomeOrAway'];
+    const props = pick(participant, propsShouldPick);
+    return {
+      Name: props.Name,
+      Side: props.Tags.HomeOrAway.toLowerCase(),
+    };
+  });
 };
 
 const getSSEvent = object => {
@@ -83,7 +90,16 @@ const getRSMarkets = markets => {
 };
 
 const getRSParticipants = participants => {
-  return [];
+  return participants.map(participant => {
+    const propsShouldPick = ['side', 'name'];
+    const props = pick(participant, propsShouldPick);
+    const Name = props.name;
+    const Side = props.side.toLowerCase();
+    return {
+      Name,
+      Side,
+    };
+  });
 };
 
 const getRSEvent = object => {
