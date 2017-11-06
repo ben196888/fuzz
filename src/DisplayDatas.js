@@ -1,7 +1,13 @@
 import React, { Component } from 'react';
+import moment from 'moment';
 import genTeamTuples from './genTeamTuples';
 import getCombinations from './getCombinations';
-import { getRSSelectionList, getSSSelectionList } from './getSelectionList';
+import {
+  getRSSelectionList,
+  getSSSelectionList,
+  getRSEvent,
+  getSSEvent,
+} from './getSelectionList';
 import mapSelections from './mapSelections';
 
 const SS_TEAM_TUPLES = genTeamTuples(false);
@@ -18,6 +24,9 @@ class DisplayDatas extends Component {
       pool: [],
       SSEvents: [],
       RSEvents: [],
+      SSEventObjs: [],
+      RSEventObjs: [],
+      eventResults: [],
       results: [],
     };
   }
@@ -40,6 +49,9 @@ class DisplayDatas extends Component {
             pool,
             SSEvents: [],
             RSEvents: [],
+            SSEventObjs: [],
+            RSEventObjs: [],
+            eventResults: [],
             results: [],
           });
         }}>
@@ -56,10 +68,37 @@ class DisplayDatas extends Component {
             ...this.state,
             RSEvents,
             SSEvents,
+            SSEventObjs: [],
+            RSEventObjs: [],
+            eventResults: [],
             results: [],
           });
         }}>
-          Get RS and SS selections
+          Get RS and SS events
+        </button>
+        <button onClick={() => {
+          const RSEventObjs = RSEvents.map(tupleIndex => {
+            const teamTuple = RS_TEAM_TUPLES[tupleIndex];
+            const poolIndex = this.state.pool.indexOf(tupleIndex);
+            return getRSEvent(teamTuple, { poolIndex, tupleIndex });
+          });
+          const SSEventObjs = SSEvents.map(tupleIndex => {
+            const teamTuple = SS_TEAM_TUPLES[tupleIndex];
+            const poolIndex = this.state.pool.indexOf(tupleIndex);
+            return getSSEvent(teamTuple, { poolIndex, tupleIndex });
+          });
+          const sorter = (a, b) => { return moment(a.StartTime) - moment(b.StartTime) };
+          RSEventObjs.sort(sorter);
+          SSEventObjs.sort(sorter);
+          this.setState(prevState => {
+            return {
+              ...prevState,
+              RSEventObjs,
+              SSEventObjs,
+            };
+          });
+        }}>
+          Get Event Matching Result
         </button>
         <button onClick={() => {
           const results = mapSelections(queries, choices);
