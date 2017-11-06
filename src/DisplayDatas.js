@@ -4,8 +4,9 @@ import getCombinations from './getCombinations';
 import { getRSSelectionList, getSSSelectionList } from './getSelectionList';
 import mapSelections from './mapSelections';
 
-const TEAM_TUPLES = genTeamTuples();
-const TEAM_TUPLES_SIZE = TEAM_TUPLES.length;
+const SS_TEAM_TUPLES = genTeamTuples(false);
+const RS_TEAM_TUPLES = genTeamTuples(true);
+const TEAM_TUPLES_SIZE = SS_TEAM_TUPLES.length;
 const POOL_SIZE = 1;
 const EVENT_SIZE = 1;
 
@@ -24,8 +25,8 @@ class DisplayDatas extends Component {
   render() {
     const SSEvents = this.state.SSEvents;
     const RSEvents = this.state.RSEvents;
-    const SSTeamTuples = SSEvents.map(v => TEAM_TUPLES[v]);
-    const RSTeamTuples = RSEvents.map(v => TEAM_TUPLES[v]);
+    const SSTeamTuples = SSEvents.map(v => SS_TEAM_TUPLES[v]);
+    const RSTeamTuples = RSEvents.map(v => RS_TEAM_TUPLES[v]);
 
     const queries = SSTeamTuples.map(teamTuple => getSSSelectionList(teamTuple))[0] || [];
     const choices = RSTeamTuples.map(teamTuple => getRSSelectionList(teamTuple))[0] || [];
