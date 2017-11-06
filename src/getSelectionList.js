@@ -1,6 +1,7 @@
 import range from 'lodash/range';
 import replace from 'lodash/replace';
 import { getSSData, getRSData } from './getData';
+import getEventTime from './getEventTime';
 
 const SSEventObj = getSSData();
 const RSEventObj = getRSData();
@@ -62,4 +63,33 @@ export function getRSSelectionList(teamTuple) {
       name,
     };
   });
+}
+
+const getEvent = (eventObj, teamTuple, { poolIndex, tupleIndex }) => {
+  const FixtureName = range(PATTERN.length).reduce((oldName, i) => {
+    return replace(oldName, PATTERN[i], teamTuple[i]);
+  }, eventObj.FixtureName);
+  const StartTime = getEventTime({ poolIndex, tupleIndex });
+  const Participants = eventObj.Participants.map(participant => {
+    const Name = range(PATTERN.length).reduce((oldName, i) => {
+      return replace(oldName, PATTERN[i], teamTuple[i]);
+    }, participant.Name);
+    return {
+      ...participant,
+      Name,
+    };
+  });
+  return {
+    FixtureName,
+    StartTime,
+    Participants,
+  };
+};
+
+export function getSSEvent(teamTuple, { poolIndex, tupleIndex }) {
+  return getEvent(SSEventObj, teamTuple, { poolIndex, tupleIndex });
+}
+
+export function getRSEvent(teamTuple, { poolIndex, tupleIndex }) {
+  return getEvent(RSEventObj, teamTuple, { poolIndex, tupleIndex });
 }
