@@ -7,8 +7,8 @@ import mapSelections from './mapSelections';
 const SS_TEAM_TUPLES = genTeamTuples(false);
 const RS_TEAM_TUPLES = genTeamTuples(true);
 const TEAM_TUPLES_SIZE = SS_TEAM_TUPLES.length;
-const POOL_SIZE = 1;
-const EVENT_SIZE = 1;
+const POOL_SIZE = 20;
+const EVENT_SIZE = 15;
 
 class DisplayDatas extends Component {
   constructor() {
