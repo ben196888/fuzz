@@ -4592,7 +4592,7 @@
                 "status": "pre-match"
             }
         ],
-        "name": "<SPECIALTEAMAWAYNAME> at <SPECIALTEAMHOMENAME>",
+        "name": "<SPECIALTEAMHOMENAME> vs <SPECIALTEAMAWAYNAME>",
         "participants": [
             {
                 "id": "10",
