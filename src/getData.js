@@ -63,7 +63,6 @@ const getRSSelections = selections => {
   return selections.map(selection => {
     const props = pick(selection, propsShouldPick);
     const Id = props.id;
-    const Side = (props.side) ? (props.side.toLowerCase() === 'h') ? '<TEAM_HOME>': '<TEAM_AWAY>' : '';
     const Handicap = (props.handicap) ? `${props.handicap}` : '';
     const Name = `${props.name} ${Handicap}`;
     return {
@@ -79,7 +78,6 @@ const getRSMarkets = markets => {
     const props = pick(market, propsShouldPick);
     const Id = props.id;
     const Name = props.name;
-    const MarketType = props.market_type;
     const Selections = getRSSelections(props.selections);
     return {
       Id,
